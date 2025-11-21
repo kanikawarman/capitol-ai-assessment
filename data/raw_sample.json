@@ -1,0 +1,3617 @@
+[
+  {
+    "_id": "JTCFBWNDENCPFFOZPDK44JJEQA",
+    "additional_properties": {
+      "has_published_copy": true,
+      "is_published": false,
+      "product_categories": {
+        "buyer_personas_confidence_selection": [
+          {
+            "confidence": 0,
+            "persona": "Expectant Mother"
+          },
+          {
+            "confidence": 0,
+            "persona": "New Parent"
+          },
+          {
+            "confidence": 0,
+            "persona": "Stay-at-Home Parent"
+          },
+          {
+            "confidence": 0,
+            "persona": "Single Parent"
+          },
+          {
+            "confidence": 0,
+            "persona": "Parent Educator"
+          },
+          {
+            "confidence": 0,
+            "persona": "Parenting Blogger"
+          },
+          {
+            "confidence": 0,
+            "persona": "Caregiver"
+          },
+          {
+            "confidence": 0,
+            "persona": "Adoption Advocate"
+          },
+          {
+            "confidence": 0,
+            "persona": "Childcare Professional"
+          },
+          {
+            "confidence": 0,
+            "persona": "Pediatrician"
+          },
+          {
+            "confidence": 0,
+            "persona": "Divorce Lawyer"
+          },
+          {
+            "confidence": 0,
+            "persona": "Marriage Counselor"
+          },
+          {
+            "confidence": 0,
+            "persona": "Relationship Enthusiast"
+          },
+          {
+            "confidence": 0,
+            "persona": "Family Historian"
+          },
+          {
+            "confidence": 0,
+            "persona": "Grief Counselor"
+          },
+          {
+            "confidence": 0,
+            "persona": "Love Seeker"
+          },
+          {
+            "confidence": 0,
+            "persona": "Groom-to-be"
+          },
+          {
+            "confidence": 0,
+            "persona": "Bride-to-Be"
+          },
+          {
+            "confidence": 0,
+            "persona": "Anniversary Planner"
+          },
+          {
+            "confidence": 0,
+            "persona": "Home Improvement Enthusiast"
+          },
+          {
+            "confidence": 0,
+            "persona": "Interior Design Enthusiast"
+          },
+          {
+            "confidence": 0,
+            "persona": "Home Decor Enthusiast"
+          },
+          {
+            "confidence": 0,
+            "persona": "Garden Enthusiast"
+          },
+          {
+            "confidence": 0,
+            "persona": "Gardening Enthusiast"
+          },
+          {
+            "confidence": 0,
+            "persona": "DIY Enthusiast"
+          },
+          {
+            "confidence": 0,
+            "persona": "Home Office Enthusiast"
+          },
+          {
+            "confidence": 0,
+            "persona": "Renovation Enthusiast"
+          },
+          {
+            "confidence": 0,
+            "persona": "Lawn Care Specialist"
+          },
+          {
+            "confidence": 0,
+            "persona": "Historic Home Enthusiast"
+          },
+          {
+            "confidence": 0,
+            "persona": "Activist"
+          },
+          {
+            "confidence": 0,
+            "persona": "Civic Leader"
+          },
+          {
+            "confidence": 0,
+            "persona": "Community Activist"
+          },
+          {
+            "confidence": 0,
+            "persona": "Political Activist"
+          },
+          {
+            "confidence": 0,
+            "persona": "Political Analyst"
+          },
+          {
+            "confidence": 0,
+            "persona": "Social Activist"
+          },
+          {
+            "confidence": 0,
+            "persona": "Social Worker"
+          },
+          {
+            "confidence": 0,
+            "persona": "Public Health Researcher"
+          },
+          {
+            "confidence": 0,
+            "persona": "Public Relations Specialist"
+          },
+          {
+            "confidence": 0,
+            "persona": "Human Rights Activist"
+          }
+        ],
+        "iab_taxonomy": [
+          [
+            "Category name: Family and Relationships > Parenting",
+            "Confidence: 0.9147835373878479"
+          ],
+          [
+            "Category name: Family and Relationships > Divorce",
+            "Confidence: 0.2695119380950928"
+          ],
+          [
+            "Category name: News",
+            "Confidence: 0.26480671763420105"
+          ],
+          [
+            "Category name: Family and Relationships > Dating",
+            "Confidence: 0.22917214035987854"
+          ],
+          [
+            "Category name: Home & Garden > Home Improvement",
+            "Confidence: 0.15191566944122314"
+          ],
+          [
+            "Category name: Politics > Civic affairs",
+            "Confidence: 0.1270568072795868"
+          ]
+        ]
+      },
+      "publish_date": "2025-07-02T00:00:00.000Z"
+    },
+    "address": {},
+    "canonical_website": "nj",
+    "content_elements": [
+      {
+        "_id": "MRBSWOP3JRAFRJSDCJEY6727QM",
+        "additional_properties": {
+          "fullSizeResizeUrl": "/resizer/v2/MRBSWOP3JRAFRJSDCJEY6727QM.png?auth=995471ee4ca606b61efe93cfcc20cec39f1b488b1aa5ec32fc245cfa0f11a130",
+          "galleries": [],
+          "ingestionMethod": "manual",
+          "mime_type": "image/png",
+          "originalName": "judith martin, miss manners.png",
+          "originalUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MRBSWOP3JRAFRJSDCJEY6727QM.png",
+          "proxyUrl": "/resizer/v2/MRBSWOP3JRAFRJSDCJEY6727QM.png?auth=995471ee4ca606b61efe93cfcc20cec39f1b488b1aa5ec32fc245cfa0f11a130",
+          "published": true,
+          "resizeUrl": "/resizer/v2/MRBSWOP3JRAFRJSDCJEY6727QM.png?auth=995471ee4ca606b61efe93cfcc20cec39f1b488b1aa5ec32fc245cfa0f11a130",
+          "restricted": false,
+          "thumbnailResizeUrl": "/resizer/v2/MRBSWOP3JRAFRJSDCJEY6727QM.png?auth=995471ee4ca606b61efe93cfcc20cec39f1b488b1aa5ec32fc245cfa0f11a130&width=300",
+          "version": 1,
+          "template_id": 7
+        },
+        "address": {},
+        "auth": {
+          "1": "995471ee4ca606b61efe93cfcc20cec39f1b488b1aa5ec32fc245cfa0f11a130"
+        },
+        "caption": "\"Miss Manners\" Judith Martin",
+        "created_date": "2022-02-16T19:42:07Z",
+        "credits": {
+          "affiliation": [
+            {
+              "name": "Courtesy Andrews McMeel Universal",
+              "type": "author"
+            }
+          ],
+          "by": [
+            {
+              "byline": "Courtesy Andrews McMeel Universal",
+              "name": "Courtesy Andrews McMeel Universal",
+              "type": "author"
+            }
+          ]
+        },
+        "height": 600,
+        "image_type": "photograph",
+        "last_updated_date": "2023-01-21T18:53:09Z",
+        "licensable": false,
+        "owner": {
+          "id": "advancelocal",
+          "sponsored": false
+        },
+        "source": {
+          "additional_properties": {
+            "editor": "photo center"
+          },
+          "edit_url": "https://advancelocal.arcpublishing.com/photo/MRBSWOP3JRAFRJSDCJEY6727QM",
+          "system": "photo center"
+        },
+        "subtitle": "\"Miss Manners\" Judith Martin",
+        "taxonomy": {
+          "associated_tasks": []
+        },
+        "type": "image",
+        "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MRBSWOP3JRAFRJSDCJEY6727QM.png",
+        "version": "0.10.9",
+        "width": 600,
+        "syndication": {},
+        "creditIPTC": "Courtesy Andrews McMeel Universal"
+      },
+      {
+        "_id": "GHFQ7WOHGZALTBNPQHWRGJB3TI",
+        "additional_properties": {},
+        "content": "DEAR MISS MANNERS: A very long time ago, my husband and I were invited to dinner at a restaurant by a colleague of his. I had not met the colleague or his wife prior to the dinner. ",
+        "type": "text"
+      },
+      {
+        "_id": "WPB7DFQFO5BYJJ4HLEV7TDBKHU",
+        "additional_properties": {},
+        "content": "The men promised they wouldn’t talk shop, but they did -- throughout the entire meal. There was no inclusion of us women. I tried to initiate a conversation with the wife, and she shut me down immediately with something along the lines of, “I’d rather listen to what the men are talking about.”",
+        "type": "text"
+      },
+      {
+        "_id": "EM3YD6VASFB5HN5FTTVWRGWELY",
+        "additional_properties": {},
+        "content": "Gobsmacked, I just shrank back in the seat and ate my dinner. As my husband and I were leaving, I told him what had happened and he (rightfully) said that we’d never do that again.",
+        "type": "text"
+      },
+      {
+        "_id": "4WWUMVETJFECRGHT7RUW2OFKNA",
+        "additional_properties": {},
+        "content": "I should have gotten over this by now, but I fantasize about having left the table in some way. What should I have done? I didn’t want to be rude myself.",
+        "type": "text"
+      },
+      {
+        "_id": "MAPI4PVKGRG5BPQGU3DUZWOLGA",
+        "additional_properties": {},
+        "content": "GENTLE READER: Are you talking about a very, VERY long time ago? Because Miss Manners remembers those days -- when wives, if invited at all, were treated as table decorations to be talked around. ",
+        "type": "text"
+      },
+      {
+        "_id": "YGJ3EJICVJCKDKWKZNIF7YGKDM",
+        "additional_properties": {},
+        "content": "But didn’t we have a successful rebellion against that? ",
+        "type": "text"
+      },
+      {
+        "_id": "ETYONKAEQZEA5MWFPQITWWKSCA",
+        "additional_properties": {},
+        "content": "Apparently not successful enough, if it is now a wife who treats her guest like that. She need only have said, apologetically, “Sorry, I’m listening to them.”",
+        "type": "text"
+      },
+      {
+        "_id": "AAMWZAYUQVGXXDD75ECY4GAO5M",
+        "additional_properties": {},
+        "content": "There is no need for you to fantasize about reacting effectively, and yet not rudely, because you already did: first by your silence, and then by your and your husband’s resolving never to socialize with them again. ",
+        "type": "text"
+      },
+      {
+        "_id": "WFUTCJ76IJBIRF2KGCAXKX5UDU",
+        "additional_properties": {},
+        "alignment": "center",
+        "content": "***",
+        "type": "text"
+      },
+      {
+        "_id": "42Z5RMWBYNF7BCIIJN6RPX2LCM",
+        "additional_properties": {},
+        "alignment": "left",
+        "content": "<i>(Please send your questions to Miss Manners at her website, </i><a href=\"http://www.missmanners.com/\"><i>www.missmanners.com</i></a><i>; to her email, </i><a href=\"mailto:dearmissmanners@gmail.com\"><i>dearmissmanners@gmail.com</i></a><i>; or through postal mail to Miss Manners, Andrews McMeel Syndication, 1130 Walnut St., Kansas City, MO 64106.)</i>",
+        "type": "text"
+      },
+      {
+        "_id": "VIFP72UE5BDPLEP6JPAFUJFTIU",
+        "content": "<adi-stories-by-section-tag adiWidgetId=\"widgie-24fd8778-2710-4a30-ac7b-b14ea1e3b6a2\"></adi-stories-by-section-tag>",
+        "type": "raw_html"
+      },
+      {
+        "_id": "RAIQRHXMWRB6ZIZKDSC7OSFAJY",
+        "additional_properties": {},
+        "content": "",
+        "type": "text"
+      }
+    ],
+    "created_date": "2025-06-30T12:25:04.602Z",
+    "credits": {
+      "by": [
+        {
+          "_id": "jmartin1",
+          "type": "author",
+          "version": "0.5.8",
+          "name": "Judith Martin",
+          "image": {
+            "url": "https://author-service-images-prod-us-east-1.publishing.aws.arc.pub/advancelocal/ef90c158-bf7a-43fa-b13e-c5088a5e1b25.png",
+            "version": "0.5.8"
+          },
+          "description": "",
+          "url": "",
+          "slug": "",
+          "social_links": [
+            {
+              "site": "email",
+              "url": ""
+            }
+          ],
+          "socialLinks": [
+            {
+              "site": "email",
+              "url": "",
+              "deprecated": true,
+              "deprecation_msg": "Please use social_links."
+            }
+          ],
+          "additional_properties": {
+            "original": {
+              "_id": "jmartin1",
+              "firstName": "Judith",
+              "lastName": "Martin",
+              "secondLastName": "",
+              "byline": "Judith Martin",
+              "image": "https://author-service-images-prod-us-east-1.publishing.aws.arc.pub/advancelocal/ef90c158-bf7a-43fa-b13e-c5088a5e1b25.png",
+              "email": "",
+              "affiliations": "",
+              "education": [],
+              "awards": [],
+              "books": [],
+              "podcasts": [],
+              "bio_page": "",
+              "bio": "",
+              "longBio": "Judith Martin, who goes by the pen name of Miss Manners, is an author and columnist on etiquette authority. Martin graduated from Wellesley College with a degree in English. She began her career in writing as a journalist, covering social events at the White House and embassies, later moving on as a theater and film critic. In 1978, Martin began her advice column, answering questions about manners and etiquette. Martin was the recipient of a 2005 National Humanities Medal from President George W. Bush.",
+              "slug": "",
+              "native_app_rendering": false,
+              "fuzzy_match": false,
+              "contributor": false,
+              "status": true,
+              "last_updated_date": "2024-10-14T18:56:04.884Z"
+            }
+          }
+        }
+      ]
+    },
+    "description": {
+      "basic": "Gobsmacked, I just shrank back in the seat and ate my dinner. What should I have done? "
+    },
+    "display_date": "2025-07-02T00:00:00Z",
+    "distributor": {
+      "category": "staff",
+      "name": "advancelocal",
+      "subcategory": ""
+    },
+    "first_publish_date": "2025-07-02T00:00:00Z",
+    "geo": {},
+    "headlines": {
+      "basic": "Miss Manners: I tried to talk to her but she said, ‘I’d rather listen to what the men are talking about’",
+      "meta_title": "Miss Manners: She just wanted to listen to what the men were saying",
+      "mobile": "",
+      "native": "",
+      "print": "",
+      "table": "",
+      "tablet": "",
+      "web": ""
+    },
+    "label": {},
+    "language": "",
+    "last_updated_date": "2025-07-02T00:00:37.341Z",
+    "owner": {
+      "id": "advancelocal",
+      "sponsored": false
+    },
+    "planning": {
+      "scheduling": {},
+      "story_length": {
+        "character_count_actual": 1667,
+        "inch_count_actual": 3,
+        "line_count_actual": 15,
+        "word_count_actual": 296
+      }
+    },
+    "promo_items": {
+      "basic": {
+        "_id": "MRBSWOP3JRAFRJSDCJEY6727QM",
+        "additional_properties": {
+          "fullSizeResizeUrl": "/resizer/v2/MRBSWOP3JRAFRJSDCJEY6727QM.png?auth=995471ee4ca606b61efe93cfcc20cec39f1b488b1aa5ec32fc245cfa0f11a130",
+          "galleries": [],
+          "ingestionMethod": "manual",
+          "mime_type": "image/png",
+          "originalName": "judith martin, miss manners.png",
+          "originalUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MRBSWOP3JRAFRJSDCJEY6727QM.png",
+          "proxyUrl": "/resizer/v2/MRBSWOP3JRAFRJSDCJEY6727QM.png?auth=995471ee4ca606b61efe93cfcc20cec39f1b488b1aa5ec32fc245cfa0f11a130",
+          "published": true,
+          "resizeUrl": "/resizer/v2/MRBSWOP3JRAFRJSDCJEY6727QM.png?auth=995471ee4ca606b61efe93cfcc20cec39f1b488b1aa5ec32fc245cfa0f11a130",
+          "restricted": false,
+          "thumbnailResizeUrl": "/resizer/v2/MRBSWOP3JRAFRJSDCJEY6727QM.png?auth=995471ee4ca606b61efe93cfcc20cec39f1b488b1aa5ec32fc245cfa0f11a130&width=300",
+          "version": 1,
+          "template_id": 7
+        },
+        "address": {},
+        "auth": {
+          "1": "995471ee4ca606b61efe93cfcc20cec39f1b488b1aa5ec32fc245cfa0f11a130"
+        },
+        "caption": "\"Miss Manners\" Judith Martin",
+        "created_date": "2022-02-16T19:42:07Z",
+        "credits": {
+          "affiliation": [
+            {
+              "name": "Courtesy Andrews McMeel Universal",
+              "type": "author"
+            }
+          ],
+          "by": [
+            {
+              "byline": "Courtesy Andrews McMeel Universal",
+              "name": "Courtesy Andrews McMeel Universal",
+              "type": "author"
+            }
+          ]
+        },
+        "height": 600,
+        "image_type": "photograph",
+        "last_updated_date": "2023-01-21T18:53:09Z",
+        "licensable": false,
+        "owner": {
+          "id": "advancelocal",
+          "sponsored": false
+        },
+        "source": {
+          "additional_properties": {
+            "editor": "photo center"
+          },
+          "edit_url": "https://advancelocal.arcpublishing.com/photo/MRBSWOP3JRAFRJSDCJEY6727QM",
+          "system": "photo center"
+        },
+        "subtitle": "\"Miss Manners\" Judith Martin",
+        "taxonomy": {
+          "associated_tasks": []
+        },
+        "type": "image",
+        "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MRBSWOP3JRAFRJSDCJEY6727QM.png",
+        "version": "0.10.9",
+        "width": 600,
+        "syndication": {},
+        "creditIPTC": "Courtesy Andrews McMeel Universal"
+      }
+    },
+    "publish_date": "2025-07-02T00:00:00Z",
+    "related_content": {
+      "basic": []
+    },
+    "revision": {
+      "branch": "default",
+      "editions": [
+        "default"
+      ],
+      "parent_id": "OVNTYYK6OJEL5H47HCXNTQWF5Q",
+      "published": true,
+      "revision_id": "KOBLL4IJWBGOPNWSECRZYKVJKQ"
+    },
+    "source": {
+      "name": "advancelocal",
+      "source_type": "staff",
+      "system": "composer"
+    },
+    "subheadlines": {
+      "basic": ""
+    },
+    "subtype": "article",
+    "taxonomy": {
+      "primary_section": {
+        "_id": "/advice",
+        "_website": "nj",
+        "type": "section",
+        "version": "0.6.0",
+        "name": "Advice",
+        "description": "Read advice columns from around the nation on relationships, finance, family and more on nj.com",
+        "path": "/advice",
+        "parent_id": "/",
+        "parent": {
+          "default": "/"
+        },
+        "additional_properties": {
+          "original": {
+            "_id": "/advice",
+            "_admin": {
+              "commercial_node": "",
+              "url_path": "https://www.nj.com/advice/",
+              "tracking_node": "",
+              "alias_ids": [
+                "/advice"
+              ],
+              "default_content": ""
+            },
+            "site": {
+              "site_section": "Opinion",
+              "site_description": "Read advice columns from around the nation on relationships, finance, family and more on nj.com",
+              "headline": "Advice Columns",
+              "site_keywords": "advice, advice columns, relationships, relationship advice, money, money advice, finances, financial advice, family, family advice, national advice, national advice columns, dear abby, carolyn hax, ask amy",
+              "site_title": "Advice Columns"
+            },
+            "navigation": {
+              "is_this_a_link_or_a_section": "Both",
+              "nav_title": "Advice Columns",
+              "nav_display": null
+            },
+            "_website": "nj",
+            "name": "Advice",
+            "order": {
+              "ellipsis": 1062,
+              "default": 1093,
+              "hamburger-menu": 1093
+            },
+            "parent": {
+              "default": "/",
+              "ellipsis": "/",
+              "hamburger-menu": "/"
+            },
+            "ancestors": {
+              "default": [],
+              "ellipsis": [
+                "/"
+              ],
+              "hamburger-menu": []
+            },
+            "inactive": false,
+            "node_type": "section"
+          }
+        }
+      },
+      "sections": [
+        {
+          "_id": "/advice",
+          "_website": "nj",
+          "type": "section",
+          "version": "0.6.0",
+          "name": "Advice",
+          "description": "Read advice columns from around the nation on relationships, finance, family and more on nj.com",
+          "path": "/advice",
+          "parent_id": "/",
+          "parent": {
+            "default": "/"
+          },
+          "additional_properties": {
+            "original": {
+              "_id": "/advice",
+              "_admin": {
+                "commercial_node": "",
+                "url_path": "https://www.nj.com/advice/",
+                "tracking_node": "",
+                "alias_ids": [
+                  "/advice"
+                ],
+                "default_content": ""
+              },
+              "site": {
+                "site_section": "Opinion",
+                "site_description": "Read advice columns from around the nation on relationships, finance, family and more on nj.com",
+                "headline": "Advice Columns",
+                "site_keywords": "advice, advice columns, relationships, relationship advice, money, money advice, finances, financial advice, family, family advice, national advice, national advice columns, dear abby, carolyn hax, ask amy",
+                "site_title": "Advice Columns"
+              },
+              "navigation": {
+                "is_this_a_link_or_a_section": "Both",
+                "nav_title": "Advice Columns",
+                "nav_display": null
+              },
+              "_website": "nj",
+              "name": "Advice",
+              "order": {
+                "ellipsis": 1062,
+                "default": 1093,
+                "hamburger-menu": 1093
+              },
+              "parent": {
+                "default": "/",
+                "ellipsis": "/",
+                "hamburger-menu": "/"
+              },
+              "ancestors": {
+                "default": [],
+                "ellipsis": [
+                  "/"
+                ],
+                "hamburger-menu": []
+              },
+              "inactive": false,
+              "node_type": "section"
+            }
+          },
+          "_website_section_id": "nj./advice"
+        },
+        {
+          "_id": "/news",
+          "_website": "nj",
+          "type": "section",
+          "version": "0.6.0",
+          "name": "News",
+          "description": "Get New Jersey latest news. Find photos and videos, comment on the news, and join the forum discussions at NJ.com.",
+          "path": "/news",
+          "parent_id": "/",
+          "parent": {
+            "default": "/"
+          },
+          "additional_properties": {
+            "original": {
+              "_id": "/news",
+              "_admin": {
+                "alias_ids": [
+                  "/news"
+                ],
+                "url_path": "https://www.nj.com/news/"
+              },
+              "navigation": {
+                "nav_display": "true",
+                "nav_title": "News",
+                "is_this_a_link_or_a_section": "Both"
+              },
+              "site": {
+                "headline": "New Jersey Real-Time News",
+                "site_description": "Get New Jersey latest news. Find photos and videos, comment on the news, and join the forum discussions at NJ.com.",
+                "site_keywords": "New Jersey news, New Jersey local news, New Jersey breaking news, latest news, local news, breaking news",
+                "site_title": "New Jersey Local News",
+                "site_section": "News"
+              },
+              "_website": "nj",
+              "name": "News",
+              "order": {
+                "ellipsis": 1013,
+                "default": 1070,
+                "toprail": 1002,
+                "native-app-news": 1001,
+                "hamburger-menu": 1070,
+                "native-app-test": 1001,
+                "photocenter": 1001
+              },
+              "parent": {
+                "default": "/",
+                "ellipsis": "/",
+                "toprail": "/",
+                "native-app-news": "/",
+                "hamburger-menu": "/",
+                "native-app-test": "/",
+                "photocenter": "/",
+                "subnav-mosaic": null
+              },
+              "ancestors": {
+                "default": [],
+                "toprail": [
+                  "/"
+                ],
+                "native-app-news": [
+                  "/"
+                ],
+                "hamburger-menu": [],
+                "native-app-test": [
+                  "/"
+                ],
+                "photocenter": [
+                  "/"
+                ],
+                "ellipsis": [
+                  "/"
+                ],
+                "subnav-mosaic": []
+              },
+              "inactive": false,
+              "node_type": "section"
+            }
+          },
+          "_website_section_id": "nj./news"
+        },
+        {
+          "_id": "/advice",
+          "_website": "lehighvalleylive",
+          "type": "section",
+          "version": "0.6.0",
+          "name": "Advice",
+          "description": "Read advice columns from around the nation on relationships, finance, family and more on lehighvalleylive.com",
+          "path": "/advice",
+          "parent_id": "/",
+          "parent": {
+            "default": "/"
+          },
+          "additional_properties": {
+            "original": {
+              "_id": "/advice",
+              "_website": "lehighvalleylive",
+              "name": "Advice",
+              "inactive": false,
+              "ancestors": {
+                "default": [],
+                "ellipsis": [
+                  "/"
+                ],
+                "hamburger-menu": []
+              },
+              "parent": {
+                "default": "/",
+                "ellipsis": "/",
+                "hamburger-menu": "/"
+              },
+              "order": {
+                "ellipsis": 1012,
+                "default": 1011,
+                "hamburger-menu": 1011
+              },
+              "_admin": {
+                "alias_ids": [
+                  "/advice"
+                ],
+                "commercial_node": null,
+                "default_content": null,
+                "tracking_node": null,
+                "url_path": "https://www.lehighvalleylive.com/advice/"
+              },
+              "navigation": {
+                "is_this_a_link_or_a_section": "Both",
+                "nav_display": null,
+                "nav_title": "Advice Columns"
+              },
+              "site": {
+                "headline": "Advice Columns",
+                "site_description": "Read advice columns from around the nation on relationships, finance, family and more on lehighvalleylive.com",
+                "site_keywords": "advice, advice columns, relationships, relationship advice, money, money advice, finances, financial advice, family, family advice, national advice, national advice columns, dear abby, carolyn hax, ask amy",
+                "site_section": "Life and Culture",
+                "site_title": "Advice Columns"
+              },
+              "node_type": "section"
+            }
+          },
+          "_website_section_id": "lehighvalleylive./advice"
+        },
+        {
+          "_id": "/news",
+          "_website": "lehighvalleylive",
+          "type": "section",
+          "version": "0.6.0",
+          "name": "News",
+          "description": "Get Lehigh Valley, PA latest news. Find photos and videos, comment on the news, and join the forum discussions at lehighvalleylive.com.",
+          "path": "/news",
+          "parent_id": "/",
+          "parent": {
+            "default": "/"
+          },
+          "additional_properties": {
+            "original": {
+              "_id": "/news",
+              "site": {
+                "site_description": "Get Lehigh Valley, PA latest news. Find photos and videos, comment on the news, and join the forum discussions at lehighvalleylive.com.",
+                "site_keywords": "Pennsylvania news, Lehigh Valley, PA news, Pennsylvania local news, Pennsylvania breaking news, latest news, local news, breaking news",
+                "site_title": "Lehigh Valley, PA Local News",
+                "headline": "Lehigh Valley News",
+                "site_section": "News"
+              },
+              "_admin": {
+                "default_content": null,
+                "alias_ids": [
+                  "/news"
+                ],
+                "tracking_node": null,
+                "commercial_node": null,
+                "url_path": "https://www.lehighvalleylive.com/news/"
+              },
+              "navigation": {
+                "nav_title": "News",
+                "nav_display": "true",
+                "is_this_a_link_or_a_section": "Both"
+              },
+              "_website": "lehighvalleylive",
+              "name": "News",
+              "order": {
+                "ellipsis": 1013,
+                "toprail": 1001,
+                "native-app-news": 1001,
+                "photocenter": 1001
+              },
+              "parent": {
+                "default": "/",
+                "ellipsis": "/",
+                "toprail": "/",
+                "native-app-news": "/",
+                "hamburger-menu": "/",
+                "photocenter": "/"
+              },
+              "ancestors": {
+                "default": [],
+                "ellipsis": [
+                  "/"
+                ],
+                "toprail": [
+                  "/"
+                ],
+                "native-app-news": [
+                  "/"
+                ],
+                "hamburger-menu": [],
+                "photocenter": [
+                  "/"
+                ]
+              },
+              "inactive": false,
+              "node_type": "section"
+            }
+          },
+          "_website_section_id": "lehighvalleylive./news"
+        }
+      ],
+      "tags": [
+        {
+          "description": "@river",
+          "slug": "river",
+          "text": "@river"
+        },
+        {
+          "description": "@topstories",
+          "slug": "topstories",
+          "text": "@topstories"
+        },
+        {
+          "description": "@exmeter",
+          "slug": "exmeter",
+          "text": "@exmeter"
+        }
+      ]
+    },
+    "type": "story",
+    "version": "0.10.11",
+    "websites": {
+      "lehighvalleylive": {
+        "website_section": {
+          "_id": "/advice",
+          "_website": "lehighvalleylive",
+          "type": "section",
+          "version": "0.6.0",
+          "name": "Advice",
+          "description": "Read advice columns from around the nation on relationships, finance, family and more on lehighvalleylive.com",
+          "path": "/advice",
+          "parent_id": "/",
+          "parent": {
+            "default": "/"
+          },
+          "additional_properties": {
+            "original": {
+              "_id": "/advice",
+              "_website": "lehighvalleylive",
+              "name": "Advice",
+              "inactive": false,
+              "ancestors": {
+                "default": [],
+                "ellipsis": [
+                  "/"
+                ],
+                "hamburger-menu": []
+              },
+              "parent": {
+                "default": "/",
+                "ellipsis": "/",
+                "hamburger-menu": "/"
+              },
+              "order": {
+                "ellipsis": 1012,
+                "default": 1011,
+                "hamburger-menu": 1011
+              },
+              "_admin": {
+                "alias_ids": [
+                  "/advice"
+                ],
+                "commercial_node": null,
+                "default_content": null,
+                "tracking_node": null,
+                "url_path": "https://www.lehighvalleylive.com/advice/"
+              },
+              "navigation": {
+                "is_this_a_link_or_a_section": "Both",
+                "nav_display": null,
+                "nav_title": "Advice Columns"
+              },
+              "site": {
+                "headline": "Advice Columns",
+                "site_description": "Read advice columns from around the nation on relationships, finance, family and more on lehighvalleylive.com",
+                "site_keywords": "advice, advice columns, relationships, relationship advice, money, money advice, finances, financial advice, family, family advice, national advice, national advice columns, dear abby, carolyn hax, ask amy",
+                "site_section": "Life and Culture",
+                "site_title": "Advice Columns"
+              },
+              "node_type": "section"
+            }
+          },
+          "_website_section_id": "lehighvalleylive./advice"
+        },
+        "website_url": "/advice/2025/07/miss-manners-i-tried-to-talk-to-her-but-she-said-id-rather-listen-to-what-the-men-are-talking-about.html"
+      },
+      "nj": {
+        "website_section": {
+          "_id": "/advice",
+          "_website": "nj",
+          "type": "section",
+          "version": "0.6.0",
+          "name": "Advice",
+          "description": "Read advice columns from around the nation on relationships, finance, family and more on nj.com",
+          "path": "/advice",
+          "parent_id": "/",
+          "parent": {
+            "default": "/"
+          },
+          "additional_properties": {
+            "original": {
+              "_id": "/advice",
+              "_admin": {
+                "commercial_node": "",
+                "url_path": "https://www.nj.com/advice/",
+                "tracking_node": "",
+                "alias_ids": [
+                  "/advice"
+                ],
+                "default_content": ""
+              },
+              "site": {
+                "site_section": "Opinion",
+                "site_description": "Read advice columns from around the nation on relationships, finance, family and more on nj.com",
+                "headline": "Advice Columns",
+                "site_keywords": "advice, advice columns, relationships, relationship advice, money, money advice, finances, financial advice, family, family advice, national advice, national advice columns, dear abby, carolyn hax, ask amy",
+                "site_title": "Advice Columns"
+              },
+              "navigation": {
+                "is_this_a_link_or_a_section": "Both",
+                "nav_title": "Advice Columns",
+                "nav_display": null
+              },
+              "_website": "nj",
+              "name": "Advice",
+              "order": {
+                "ellipsis": 1062,
+                "default": 1093,
+                "hamburger-menu": 1093
+              },
+              "parent": {
+                "default": "/",
+                "ellipsis": "/",
+                "hamburger-menu": "/"
+              },
+              "ancestors": {
+                "default": [],
+                "ellipsis": [
+                  "/"
+                ],
+                "hamburger-menu": []
+              },
+              "inactive": false,
+              "node_type": "section"
+            }
+          },
+          "_website_section_id": "nj./advice"
+        },
+        "website_url": "/advice/2025/07/miss-manners-i-tried-to-talk-to-her-but-she-said-id-rather-listen-to-what-the-men-are-talking-about.html"
+      }
+    },
+    "workflow": {
+      "status_code": 1
+    },
+    "canonical_url": "/advice/2025/07/miss-manners-i-tried-to-talk-to-her-but-she-said-id-rather-listen-to-what-the-men-are-talking-about.html",
+    "publishing": {
+      "scheduled_operations": {
+        "publish_edition": [],
+        "unpublish_edition": []
+      }
+    },
+    "website": "nj",
+    "website_url": "/advice/2025/07/miss-manners-i-tried-to-talk-to-her-but-she-said-id-rather-listen-to-what-the-men-are-talking-about.html"
+  },
+  {
+    "_id": "RF36ELX6ZRERBCJBMKGA7HBWBU",
+    "additional_properties": {
+      "has_published_copy": true,
+      "is_published": true,
+      "product_categories": {
+        "buyer_personas_confidence_selection": [
+          {
+            "confidence": 0.9,
+            "persona": "Foodie"
+          },
+          {
+            "confidence": 0.9,
+            "persona": "Bargain Hunter"
+          },
+          {
+            "confidence": 0.8,
+            "persona": "Food Blogger"
+          },
+          {
+            "confidence": 0.8,
+            "persona": "Smoothie Enthusiast"
+          },
+          {
+            "confidence": 0.8,
+            "persona": "Thrifty Shopper"
+          },
+          {
+            "confidence": 0.7,
+            "persona": "Cooking Enthusiast"
+          },
+          {
+            "confidence": 0.7,
+            "persona": "DIY Enthusiast"
+          },
+          {
+            "confidence": 0.7,
+            "persona": "E-commerce Entrepreneur"
+          },
+          {
+            "confidence": 0.6,
+            "persona": "Gourmet Enthusiast"
+          },
+          {
+            "confidence": 0,
+            "persona": "Dietician"
+          },
+          {
+            "confidence": 0,
+            "persona": "Healthy Eater"
+          },
+          {
+            "confidence": 0,
+            "persona": "Diet Conscious Individual"
+          },
+          {
+            "confidence": 0,
+            "persona": "Nutrition Enthusiast"
+          },
+          {
+            "confidence": 0,
+            "persona": "Organic Food Advocate"
+          },
+          {
+            "confidence": 0,
+            "persona": "Home Decor Enthusiast"
+          },
+          {
+            "confidence": 0,
+            "persona": "Home Improvement Enthusiast"
+          },
+          {
+            "confidence": 0,
+            "persona": "Appliance Enthusiast"
+          },
+          {
+            "confidence": 0,
+            "persona": "Home Office Enthusiast"
+          },
+          {
+            "confidence": 0,
+            "persona": "Home Theater Enthusiast"
+          },
+          {
+            "confidence": 0,
+            "persona": "Gardening Enthusiast"
+          },
+          {
+            "confidence": 0,
+            "persona": "Interior Design Enthusiast"
+          },
+          {
+            "confidence": 0,
+            "persona": "Smart Home Enthusiast"
+          },
+          {
+            "confidence": 0,
+            "persona": "Comfort Seeker"
+          },
+          {
+            "confidence": 0,
+            "persona": "Coupon Clipper"
+          },
+          {
+            "confidence": 0,
+            "persona": "Discount Seeker"
+          },
+          {
+            "confidence": 0,
+            "persona": "Cost-Conscious Consumer"
+          },
+          {
+            "confidence": 0,
+            "persona": "Frugal Shopper"
+          },
+          {
+            "confidence": 0,
+            "persona": "Savings Enthusiast"
+          },
+          {
+            "confidence": 0,
+            "persona": "Budget-Conscious Consumer"
+          },
+          {
+            "confidence": 0,
+            "persona": "Budget Traveler"
+          },
+          {
+            "confidence": 0,
+            "persona": "Reward Points Hunter"
+          },
+          {
+            "confidence": 0,
+            "persona": "Business Owner"
+          },
+          {
+            "confidence": 0,
+            "persona": "Financial Analyst"
+          },
+          {
+            "confidence": 0,
+            "persona": "Financial Advisor"
+          },
+          {
+            "confidence": 0,
+            "persona": "Investor"
+          },
+          {
+            "confidence": 0,
+            "persona": "Economic Analyst"
+          },
+          {
+            "confidence": 0,
+            "persona": "Startup Enthusiast"
+          },
+          {
+            "confidence": 0,
+            "persona": "Portfolio Manager"
+          },
+          {
+            "confidence": 0,
+            "persona": "Consulting Enthusiast"
+          },
+          {
+            "confidence": 0,
+            "persona": "Garden Enthusiast"
+          },
+          {
+            "confidence": 0,
+            "persona": "Renovation Enthusiast"
+          },
+          {
+            "confidence": 0,
+            "persona": "Lawn Care Specialist"
+          },
+          {
+            "confidence": 0,
+            "persona": "Historic Home Enthusiast"
+          }
+        ],
+        "iab_taxonomy": [
+          [
+            "Category name: Food & Drink > Non-Alcoholic Beverages",
+            "Confidence: 0.9014253616333008"
+          ],
+          [
+            "Category name: Home & Garden > Home Appliances",
+            "Confidence: 0.2866296172142029"
+          ],
+          [
+            "Category name: News",
+            "Confidence: 0.21673722565174103"
+          ],
+          [
+            "Category name: Shopping > Coupons and Discounts",
+            "Confidence: 0.208204448223114"
+          ],
+          [
+            "Category name: Business and Finance > Business",
+            "Confidence: 0.1582283228635788"
+          ],
+          [
+            "Category name: Home & Garden > Home Improvement",
+            "Confidence: 0.12964490056037903"
+          ]
+        ],
+        "pc_buyer_personas_confidence_selection": [
+          {
+            "confidence": 0.8,
+            "persona": "Culinary Enthusiast"
+          },
+          {
+            "confidence": 0.7,
+            "persona": "Home Cook"
+          },
+          {
+            "confidence": 0.6,
+            "persona": "Casual Cook"
+          },
+          {
+            "confidence": 0.5,
+            "persona": "Party Game Enthusiast"
+          },
+          {
+            "confidence": 0,
+            "persona": "Home Bartender"
+          },
+          {
+            "confidence": 0,
+            "persona": "Meal Prep Enthusiast"
+          },
+          {
+            "confidence": 0,
+            "persona": "Gourmet Chef"
+          },
+          {
+            "confidence": 0,
+            "persona": "Baking Enthusiast"
+          },
+          {
+            "confidence": 0,
+            "persona": "DIY Home Enthusiast"
+          }
+        ],
+        "product_classification": "Home & Garden>Kitchen & Dining>Kitchen Appliances>Frozen Drink Makers"
+      },
+      "publish_date": "2025-07-05T04:50:10.839Z"
+    },
+    "canonical_website": "nj",
+    "content_elements": [
+      {
+        "_id": "BLLMDVYDTJGZZIL6JLUPVAQQTA",
+        "additional_properties": {
+          "fullSizeResizeUrl": "/resizer/v2/BLLMDVYDTJGZZIL6JLUPVAQQTA.jpg?auth=e0a5b824d965cf2956a02181b883a66b94222288483e3e7570f4b497667909f3",
+          "galleries": [],
+          "ingestionMethod": "manual",
+          "mime_type": "image/jpeg",
+          "originalName": "Untitled design - 2025-07-01T142500.039.jpg",
+          "originalUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BLLMDVYDTJGZZIL6JLUPVAQQTA.jpg",
+          "proxyUrl": "/resizer/v2/BLLMDVYDTJGZZIL6JLUPVAQQTA.jpg?auth=e0a5b824d965cf2956a02181b883a66b94222288483e3e7570f4b497667909f3",
+          "published": true,
+          "resizeUrl": "/resizer/v2/BLLMDVYDTJGZZIL6JLUPVAQQTA.jpg?auth=e0a5b824d965cf2956a02181b883a66b94222288483e3e7570f4b497667909f3",
+          "restricted": false,
+          "thumbnailResizeUrl": "/resizer/v2/BLLMDVYDTJGZZIL6JLUPVAQQTA.jpg?auth=e0a5b824d965cf2956a02181b883a66b94222288483e3e7570f4b497667909f3&width=300",
+          "version": 0,
+          "template_id": 7,
+          "link": ""
+        },
+        "address": {},
+        "auth": {
+          "1": "e0a5b824d965cf2956a02181b883a66b94222288483e3e7570f4b497667909f3"
+        },
+        "caption": "Skip the Starbucks line, and grab the fan-favorite Ninja SLUSHi ahead of the holiday weekend. Prime members can get fast and free shipping by tomorrow.",
+        "created_date": "2025-07-01T18:27:25Z",
+        "credits": {
+          "affiliation": [
+            {
+              "name": "Amazon/Shark/Ninja/Canva",
+              "type": "author"
+            }
+          ],
+          "by": [
+            {
+              "byline": "Amazon/Shark/Ninja/Danielle Halibey/Canva",
+              "name": "Amazon/Shark/Ninja/Danielle Halibey/Canva",
+              "type": "author"
+            }
+          ]
+        },
+        "distributor": {
+          "mode": "reference",
+          "reference_id": "fa42b94b-108c-4646-aa55-89c1a07a6fb4"
+        },
+        "height": 960,
+        "image_type": "photograph",
+        "last_updated_date": "2025-07-01T18:27:25Z",
+        "licensable": false,
+        "owner": {
+          "id": "advancelocal",
+          "sponsored": false
+        },
+        "source": {
+          "name": "Canva single use only",
+          "source_type": "wires",
+          "additional_properties": {
+            "editor": "photo center"
+          },
+          "edit_url": "https://advancelocal.arcpublishing.com/photo/BLLMDVYDTJGZZIL6JLUPVAQQTA",
+          "system": "photo center"
+        },
+        "subtitle": "Ninja SLUSHi fireworks frapp from Starbucks",
+        "taxonomy": {
+          "associated_tasks": []
+        },
+        "type": "image",
+        "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BLLMDVYDTJGZZIL6JLUPVAQQTA.jpg",
+        "version": "0.10.9",
+        "width": 1280,
+        "syndication": {},
+        "creditIPTC": "Amazon/Shark/Ninja/Canva"
+      },
+      {
+        "_id": "GNBUSF7LVJBJJMBACLLFHEQNPE",
+        "additional_properties": {},
+        "content": "Starbucks just lit the fuse on summer with a limited-edition <a href=\"https://about.starbucks.com/stories/2025/celebrate-the-4th-of-july-with-a-limited-edition-summer-sip-from-starbucks/\" target=\"_blank\" rel=\"\" title=\"https://about.starbucks.com/stories/2025/celebrate-the-4th-of-july-with-a-limited-edition-summer-sip-from-starbucks/\">Firework Frappuccino</a>, but it’s only available through July 7. ",
+        "type": "text"
+      },
+      {
+        "_id": "ZY7UPWTQ75HLNEHBGOR2BGAWZI",
+        "additional_properties": {},
+        "content": "Fortunately, you can make the same kind of frosty, festive and flavorful red, white, and blue drink with the <a href=\"https://www.amazon.com/Ninja-FS301-Professional-RapidChill-Technology/dp/B0D2LZYQ2M?tag=advancenj-20\" target=\"_blank\" rel=\"\" title=\"https://www.amazon.com/Ninja-FS301-Professional-RapidChill-Technology/dp/B0D2LZYQ2M\">Ninja SLUSHi 5-Preset 88 oz. Professional Frozen Drink Maker</a>. ",
+        "type": "text"
+      },
+      {
+        "_id": "JODMUP25FVC5LOAZ3QMP5AAQIU",
+        "additional_properties": {},
+        "content": "<a href=\"https://www.nj.com/shopping-deals/amazon/\" target=\"_blank\" rel=\"\" title=\"https://www.nj.com/shopping-deals/amazon/\"><i><b>Check out our Amazon shopping hub for even more seasonal steals</b></i></a><i><b>. </b></i>",
+        "type": "text"
+      },
+      {
+        "_id": "JGS5SZTI4VDKVKI6I6ESRHBNTA",
+        "embed": {
+          "config": {
+            "body": "Depending on where you live, you may be eligible for free overnight shipping with an Amazon Prime membership. ",
+            "border_bottom": false,
+            "border_top": false,
+            "buttonType": "Deal Box",
+            "button_text": "Buy Now on Amazon",
+            "discount_tagline": "$350",
+            "headline": "Ninja SLUSHi 88 oz. Frozen Drink & Slushie Machine",
+            "image_alt_text": "Ninja SLUSHi 88 oz. Frozen Drink & Slushie Machine",
+            "image_src": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Q53XS6VKAZB77DSLAL6VNXG4JE.png",
+            "invalid": "",
+            "url": "https://www.amazon.com/Ninja-FS301-Professional-RapidChill-Technology/dp/B0D2LZYQ2M?tag=advancenj-20"
+          },
+          "id": "1",
+          "url": "advancelocal.arcpublishing.com/pf/custom-embed/buy-button/edit"
+        },
+        "subtype": "Custom Buy Button",
+        "type": "custom_embed"
+      },
+      {
+        "_id": "2ZYTBM6J7VBETCLF7RONRN2B4Y",
+        "additional_properties": {},
+        "content": "And, with Prime shipping options, you can get it from Amazon for $350 and have it delivered as early as tomorrow. ",
+        "type": "text"
+      },
+      {
+        "_id": "5IL2VVN2ZRFT7GIFHRVL2SHWWU",
+        "additional_properties": {},
+        "content": "According to Starbucks, the refreshing and patriotic frapp features the berry flavors of Starbucks Summer-Berry Refresher blended with coconut milk and poured over raspberry-flavored pearls. It has a swirl of strawberry purée for a pop of red, and it’s topped with vanilla sweet cream cold foam.",
+        "type": "text"
+      },
+      {
+        "_id": "HEHTNDMTYJAEBBFN7QCBAXEGMU",
+        "additional_properties": {},
+        "content": "With the Ninja SLUSHi, you can blend your own version of Starbucks’ holiday drink using juicy ingredients, the SLUSHi’s “Frappé” preset and the machine’s core RapidChill technology, which <a href=\"https://www.amazon.com/Ninja-FS301-Professional-RapidChill-Technology/dp/B0D2LZYQ2M?tag=advancenj-20\" target=\"_blank\" rel=\"\" title=\"https://www.amazon.com/Ninja-FS301-Professional-RapidChill-Technology/dp/B0D2LZYQ2M\">turns room-temperature liquids into frozen drinks in as little as 15 minutes</a> — no pre-freezing required.",
+        "type": "text"
+      },
+      {
+        "_id": "Q36YL3B3YZE23IOVBNPEMPILBY",
+        "additional_properties": {},
+        "content": "How to remix the Firework Frappuccino at home:",
+        "level": 2,
+        "type": "header"
+      },
+      {
+        "_id": "PJSQSFUF7FE63PM2SHR3DR5YDI",
+        "items": [
+          {
+            "_id": "PMBCIUMCABHTLNECGKOSLF6DVA",
+            "additional_properties": {
+              "indent": 0
+            },
+            "alignment": "left",
+            "content": "<b>Base</b>: Blend a berry juice or refresher-style mix with coconut milk for that creamy slash fruity foundation.",
+            "type": "text"
+          },
+          {
+            "_id": "NOEXSSAPV5HXZILUEB7F6OH4FI",
+            "additional_properties": {
+              "indent": 0
+            },
+            "alignment": "left",
+            "content": "<b>Pearls:</b> Add raspberry-flavored popping boba (available online at stores, like Target or Walmart, or shoppable at Asian markets) for that punchy burst.",
+            "type": "text"
+          },
+          {
+            "_id": "N2RLAG3LC5DMFPV6RXZEQJXC3I",
+            "additional_properties": {
+              "indent": 0
+            },
+            "alignment": "left",
+            "content": "<b>Swirl: </b>Drizzle in strawberry purée for a bold red pop of color.",
+            "type": "text"
+          },
+          {
+            "_id": "HR2LYVEFRFB3HPUIWFPMGQ3QBU",
+            "additional_properties": {
+              "indent": 0
+            },
+            "alignment": "left",
+            "content": "<b>Top:</b> Finish with a whipped vanilla cold foam easily made with milk, vanilla syrup, and a frother or whatever you can buy in a can from the supermarket.",
+            "type": "text"
+          }
+        ],
+        "list_type": "unordered",
+        "type": "list"
+      },
+      {
+        "_id": "V2JQYILQPBAQDDLRZSMAPFUGNI",
+        "additional_properties": {},
+        "content": "With its 88-ounce vessel, you can <a href=\"https://www.amazon.com/Ninja-FS301-Professional-RapidChill-Technology/dp/B0D2LZYQ2M?tag=advancenj-20\" target=\"_blank\" rel=\"\" title=\"https://www.amazon.com/Ninja-FS301-Professional-RapidChill-Technology/dp/B0D2LZYQ2M\">serve your whole crew Firecracker Frapps in one go</a> — and it’ll keep them cold and icy for up to 12 hours. ",
+        "type": "text"
+      },
+      {
+        "_id": "WGESSB7YOJECRJHN6WDHUHIFCU",
+        "additional_properties": {},
+        "content": "So, whether you plan on hosting a barbecue, lounging by the pool or watching firework displays from your front porch, the 5-in-1 SLUSHi will <a href=\"https://www.amazon.com/Ninja-FS301-Professional-RapidChill-Technology/dp/B0D2LZYQ2M?tag=advancenj-20\" target=\"_blank\" rel=\"\" title=\"https://www.amazon.com/Ninja-FS301-Professional-RapidChill-Technology/dp/B0D2LZYQ2M\">keep the bomb-pop frozen beverage inspo flowing</a>.",
+        "type": "text"
+      },
+      {
+        "_id": "FCRDI5H42RFN3FIIBVZIEQ7UQE",
+        "embed": {
+          "config": {
+            "border_bottom": true,
+            "border_top": false,
+            "buttonType": "Single Buy Button",
+            "button_text": "Grab Ninja's viral SLUSHi now",
+            "discount_tagline": "",
+            "image_src": "",
+            "invalid": "",
+            "url": "https://www.amazon.com/Ninja-FS301-Professional-RapidChill-Technology/dp/B0D2LZYQ2M?tag=advancenj-20"
+          },
+          "id": "1",
+          "url": "advancelocal.arcpublishing.com/pf/custom-embed/buy-button/edit"
+        },
+        "subtype": "Custom Buy Button",
+        "type": "custom_embed"
+      },
+      {
+        "_id": "THS2II3BANHVXIRTNTHS3JU5EY",
+        "additional_properties": {},
+        "content": "Other 4th of July drink and dessert maker deals to shop at Amazon ",
+        "level": 2,
+        "type": "header"
+      },
+      {
+        "_id": "2MLLHSNQAJFZ7J4Q3EDSCQHRKU",
+        "items": [
+          {
+            "_id": "F6NIC3FISVEV7LXHWICQLEHVCQ",
+            "additional_properties": {
+              "indent": 0
+            },
+            "alignment": "left",
+            "content": "<a href=\"https://www.amazon.com/dp/B0BW16J11Y?tag=advancenj-20\" rel=\"\" target=\"_blank\" title=\"https://www.amazon.com/dp/B0BW16J11Y\">DASH My Mug Ice Cream Maker Machine 2-Pack</a> for $28, instead of $40",
+            "type": "text"
+          },
+          {
+            "_id": "HO6GW7RLOZDYJODI3XEAKPOW2I",
+            "additional_properties": {
+              "indent": 0
+            },
+            "alignment": "left",
+            "content": "<a href=\"https://www.amazon.com/dp/B0DTV7LG6Y?tag=advancenj-20\" rel=\"\" target=\"_blank\" title=\"https://www.amazon.com/dp/B0DTV7LG6Y\">DASH Deluxe Shaved Ice &amp; Slushie Maker with Serving Pitcher</a> for $32, instead of $40",
+            "type": "text"
+          },
+          {
+            "_id": "W6VZIPZVPFCIRGEYXI7IW4ZEPA",
+            "additional_properties": {
+              "indent": 0
+            },
+            "alignment": "left",
+            "content": "<a href=\"https://www.amazon.com/Ninja-NC301-placeholder-Cream-Maker/dp/B08QXB9BH5?tag=advancenj-20\" target=\"_blank\" rel=\"\" title=\"https://www.amazon.com/Ninja-NC301-placeholder-Cream-Maker/dp/B08QXB9BH5\">Ninja NC301 CREAMi Ice Cream Maker</a> for $200, instead of $230",
+            "type": "text"
+          },
+          {
+            "_id": "CSXUWN7QJBHRVAR3PWHFP3S3QQ",
+            "additional_properties": {
+              "indent": 0
+            },
+            "alignment": "left",
+            "content": "<a href=\"https://www.amazon.com/Margaritaville-Frozen-Concoction-Reservoir-DM1900/dp/B00QZ5CVKQ?tag=advancenj-20\" target=\"_blank\" rel=\"\" title=\"https://www.amazon.com/Margaritaville-Frozen-Concoction-Reservoir-DM1900/dp/B00QZ5CVKQ\">Margaritaville Key West Frozen Concoction Maker</a> for $225, instead of $279",
+            "type": "text"
+          },
+          {
+            "_id": "Y5UZQLRHKRCXNMKOBAUFEL5AC4",
+            "additional_properties": {
+              "indent": 0
+            },
+            "alignment": "left",
+            "content": "<a href=\"https://www.amazon.com/dp/B0DQLVCQPZ?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1XWXTV2YO64DL&linkCode=tr1&tag=advancenj-20&linkId=amzn1.campaign.1XWXTV2YO64DL_1751690823741\" target=\"_blank\" rel=\"\" title=\"https://www.amazon.com/dp/B0DQLVCQPZ?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.1XWXTV2YO64DL&linkCode=tr1&tag=advancenj-20&linkId=amzn1.campaign.1XWXTV2YO64DL_1751690823741\">Iceman Slush-Ease Slushie Machine</a> for $200, instead of $300",
+            "type": "text"
+          },
+          {
+            "_id": "MG4FYWUOWBFFDM6SBGNSEH5C5A",
+            "additional_properties": {
+              "indent": 0
+            },
+            "alignment": "left",
+            "content": "<a href=\"https://www.amazon.com/dp/B0DGKK97G7?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2DQ62W8YZD27I&linkCode=tr1&tag=advancenj-20&linkId=amzn1.campaign.2DQ62W8YZD27I_1751690985934\" target=\"_blank\" rel=\"\" title=\"https://www.amazon.com/dp/B0DGKK97G7?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.2DQ62W8YZD27I&linkCode=tr1&tag=advancenj-20&linkId=amzn1.campaign.2DQ62W8YZD27I_1751690985934\">INOVIVA Slushie Machine</a> for $210, instead of $340",
+            "type": "text"
+          }
+        ],
+        "list_type": "unordered",
+        "type": "list"
+      },
+      {
+        "_id": "ANFKTXFFSFBFBJ4M5ZJ43RE3QU",
+        "additional_properties": {},
+        "content": "<i>Our journalism needs your support. Please subscribe today to </i><a href=\"https://www.nj.com/\" target=\"_blank\" rel=\"\"><i>NJ.com</i></a><i>.</i>",
+        "type": "text"
+      },
+      {
+        "_id": "PFOX7X7RHRFQLL72MJLJDWO7Z4",
+        "additional_properties": {},
+        "content": "<i>Danielle Halibey can be reached at </i><a href=\"mailto:dhalibey@njadvancemedia.com\" target=\"_blank\" rel=\"\"><i>dhalibey@njadvancemedia.com</i></a><i>. Have a tip? Tell us at </i><a href=\"https://www.nj.com/tips/\" target=\"_blank\" rel=\"\"><i>nj.com/tips</i></a><i>.</i>",
+        "type": "text"
+      }
+    ],
+    "created_date": "2025-07-01T16:40:55.053Z",
+    "credits": {
+      "by": [
+        {
+          "_id": "dhalibey",
+          "type": "author",
+          "version": "0.5.8",
+          "name": "Danielle Halibey",
+          "image": {
+            "url": "https://author-service-images-prod-us-east-1.publishing.aws.arc.pub/advancelocal/377e3e0d-51fe-455a-8acd-68c0d5c3a6af.jpg",
+            "version": "0.5.8"
+          },
+          "description": "Danielle Halibey is a writer, editor, and publicist living in New Jersey. She writes commerce and advice/news and tips content for millennial-focused women.",
+          "url": "",
+          "slug": "",
+          "social_links": [
+            {
+              "site": "email",
+              "url": "dhalibey@njadvancemedia.com"
+            }
+          ],
+          "socialLinks": [
+            {
+              "site": "email",
+              "url": "dhalibey@njadvancemedia.com",
+              "deprecated": true,
+              "deprecation_msg": "Please use social_links."
+            }
+          ],
+          "additional_properties": {
+            "original": {
+              "_id": "dhalibey",
+              "firstName": "Danielle",
+              "lastName": "Halibey",
+              "secondLastName": "",
+              "byline": "Danielle Halibey | NJ Advance Media for NJ.com",
+              "image": "https://author-service-images-prod-us-east-1.publishing.aws.arc.pub/advancelocal/377e3e0d-51fe-455a-8acd-68c0d5c3a6af.jpg",
+              "email": "dhalibey@njadvancemedia.com",
+              "affiliations": "",
+              "education": [],
+              "awards": [],
+              "books": [],
+              "podcasts": [],
+              "bio_page": "",
+              "bio": "Danielle Halibey is a writer, editor, and publicist living in New Jersey. She writes commerce and advice/news and tips content for millennial-focused women.",
+              "longBio": "Danielle Halibey is a writer, editor, and publicist living in New Jersey. As a writer at NJ.com, she covers commerce and advice/news and tips content, with lifestyle content as her primary focus, including fashion, beauty, wedding, and parenting. She covers new releases and deals, with a heavy focus on brands like Ninja, Dyson, Disney Store, Longchamp, and Walmart. Her beat is comprehensive; she can tell you all the differences between the SLUSHi and the CREAMi, where to find the latest Nightmare Before Christmas products, what to give as a wedding gift, and what to actually buy off your friend's baby registry. Danielle has bylines at companies including Apartment Therapy, The Bump, The Knot, Babylist, Style Me Pretty, and PureWow.",
+              "slug": "",
+              "native_app_rendering": false,
+              "fuzzy_match": false,
+              "contributor": false,
+              "status": true,
+              "last_updated_date": "2025-08-19T18:25:05.904Z"
+            }
+          }
+        }
+      ]
+    },
+    "description": {
+      "basic": "You can make any kind of red, white and blue-hued frozen drink with the SLUSHi so even if it took Starbucks releasing its own festive holiday frapp to get you on the bandwagon, now's the time to grab it"
+    },
+    "display_date": "2025-07-02T00:05:00Z",
+    "distributor": {
+      "category": "staff",
+      "name": "advancelocal",
+      "subcategory": ""
+    },
+    "first_publish_date": "2025-07-02T00:05:00Z",
+    "headlines": {
+      "basic": "Forget the Starbucks line — Amazon can get you a Ninja SLUSHi to DIY a Firework Frapp ahead of July 4th",
+      "meta_title": "The Ninja SLUSHi was bought 10K times this month and it can arrive ASAP",
+      "mobile": "",
+      "native": "",
+      "print": "",
+      "tablet": "",
+      "web": ""
+    },
+    "last_updated_date": "2025-09-24T18:22:22.915Z",
+    "owner": {
+      "id": "advancelocal",
+      "sponsored": false
+    },
+    "planning": {
+      "story_length": {
+        "character_count_actual": 2529,
+        "inch_count_actual": 4,
+        "line_count_actual": 24,
+        "word_count_actual": 419
+      }
+    },
+    "promo_items": {
+      "basic": {
+        "_id": "BLLMDVYDTJGZZIL6JLUPVAQQTA",
+        "additional_properties": {
+          "fullSizeResizeUrl": "/resizer/v2/BLLMDVYDTJGZZIL6JLUPVAQQTA.jpg?auth=e0a5b824d965cf2956a02181b883a66b94222288483e3e7570f4b497667909f3",
+          "galleries": [],
+          "ingestionMethod": "manual",
+          "mime_type": "image/jpeg",
+          "originalName": "Untitled design - 2025-07-01T142500.039.jpg",
+          "originalUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BLLMDVYDTJGZZIL6JLUPVAQQTA.jpg",
+          "proxyUrl": "/resizer/v2/BLLMDVYDTJGZZIL6JLUPVAQQTA.jpg?auth=e0a5b824d965cf2956a02181b883a66b94222288483e3e7570f4b497667909f3",
+          "published": true,
+          "resizeUrl": "/resizer/v2/BLLMDVYDTJGZZIL6JLUPVAQQTA.jpg?auth=e0a5b824d965cf2956a02181b883a66b94222288483e3e7570f4b497667909f3",
+          "restricted": false,
+          "thumbnailResizeUrl": "/resizer/v2/BLLMDVYDTJGZZIL6JLUPVAQQTA.jpg?auth=e0a5b824d965cf2956a02181b883a66b94222288483e3e7570f4b497667909f3&width=300",
+          "version": 0,
+          "template_id": 7
+        },
+        "address": {},
+        "auth": {
+          "1": "e0a5b824d965cf2956a02181b883a66b94222288483e3e7570f4b497667909f3"
+        },
+        "caption": "Skip the Starbucks line and grab the fan-favorite Ninja SLUSHi ahead of the holiday weekend. Prime members can get fast and free shipping by tomorrow.",
+        "created_date": "2025-07-01T18:27:25Z",
+        "credits": {
+          "affiliation": [
+            {
+              "name": "Amazon/Shark/Ninja/Canva",
+              "type": "author"
+            }
+          ],
+          "by": [
+            {
+              "byline": "Amazon/Shark/Ninja/Danielle Halibey/Canva",
+              "name": "Amazon/Shark/Ninja/Danielle Halibey/Canva",
+              "type": "author"
+            }
+          ]
+        },
+        "distributor": {
+          "mode": "reference",
+          "reference_id": "fa42b94b-108c-4646-aa55-89c1a07a6fb4"
+        },
+        "height": 960,
+        "image_type": "photograph",
+        "last_updated_date": "2025-07-01T18:27:25Z",
+        "licensable": false,
+        "owner": {
+          "id": "advancelocal",
+          "sponsored": false
+        },
+        "source": {
+          "name": "Canva single use only",
+          "source_type": "wires",
+          "additional_properties": {
+            "editor": "photo center"
+          },
+          "edit_url": "https://advancelocal.arcpublishing.com/photo/BLLMDVYDTJGZZIL6JLUPVAQQTA",
+          "system": "photo center"
+        },
+        "subtitle": "Ninja SLUSHi fireworks frapp from Starbucks",
+        "taxonomy": {
+          "associated_tasks": []
+        },
+        "type": "image",
+        "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BLLMDVYDTJGZZIL6JLUPVAQQTA.jpg",
+        "version": "0.10.9",
+        "width": 1280,
+        "syndication": {},
+        "creditIPTC": "Amazon/Shark/Ninja/Canva"
+      }
+    },
+    "publish_date": "2025-09-24T18:22:22.915Z",
+    "related_content": {
+      "basic": [],
+      "clonedChildren": [],
+      "clonedFromParent": []
+    },
+    "revision": {
+      "branch": "default",
+      "editions": [
+        "default"
+      ],
+      "parent_id": "D6H63VXN5NH6ZJFUIIHAAPFC6A",
+      "published": true,
+      "revision_id": "UL6XQIKTXBFHZJ2SQVWEKN6354"
+    },
+    "source": {
+      "name": "advancelocal",
+      "source_type": "staff",
+      "system": "composer"
+    },
+    "subtype": "article",
+    "taxonomy": {
+      "categories": [
+        {
+          "_id": "210",
+          "classifier": "iab_content_taxonomy",
+          "name": "Food & Drink",
+          "score": 1
+        },
+        {
+          "_id": "210.217",
+          "classifier": "iab_content_taxonomy",
+          "name": "Food & Drink>Desserts and Baking",
+          "score": 0.6152
+        },
+        {
+          "_id": "210.211",
+          "classifier": "iab_content_taxonomy",
+          "name": "Food & Drink>Alcoholic Beverages",
+          "score": 0.5661
+        },
+        {
+          "_id": "210.216",
+          "classifier": "iab_content_taxonomy",
+          "name": "Food & Drink>Cooking",
+          "score": 0.336
+        }
+      ],
+      "content_topics": [
+        {
+          "_id": "Q766148",
+          "label": "Frappuccino",
+          "score": 1
+        },
+        {
+          "_id": "Q7166513",
+          "label": "Non-alcoholic drinks",
+          "score": 1
+        },
+        {
+          "_id": "Q5611149",
+          "label": "Foods",
+          "score": 1
+        },
+        {
+          "_id": "Q6543743",
+          "label": "Drinks",
+          "score": 1
+        },
+        {
+          "_id": "Q30792086",
+          "label": "Food watchlist articles",
+          "score": 1
+        },
+        {
+          "_id": "Q13249779",
+          "label": "Caffeinated drinks",
+          "score": 0.8224
+        },
+        {
+          "_id": "Q7440337",
+          "label": "Coffee drinks",
+          "score": 0.7505
+        },
+        {
+          "_id": "Q7232723",
+          "label": "Coffee",
+          "score": 0.7056
+        },
+        {
+          "_id": "Q6483416",
+          "label": "Hot drinks",
+          "score": 0.6477
+        },
+        {
+          "_id": "Q40050",
+          "label": "Drink",
+          "score": 0.6475
+        },
+        {
+          "_id": "Q9703849",
+          "label": "Cuisine",
+          "score": 0.5952
+        },
+        {
+          "_id": "Q7440404",
+          "label": "Cold drinks",
+          "score": 0.5832
+        },
+        {
+          "_id": "Q750291",
+          "label": "Frappé coffee",
+          "score": 0.5638
+        },
+        {
+          "_id": "Q6010682",
+          "label": "Cooking",
+          "score": 0.5219
+        },
+        {
+          "_id": "Q7467855",
+          "label": "Food and drink preparation",
+          "score": 0.4955
+        },
+        {
+          "_id": "Q37158",
+          "label": "Starbucks",
+          "score": 0.4463
+        },
+        {
+          "_id": "Q7171899",
+          "label": "North American cuisine",
+          "score": 0.4417
+        },
+        {
+          "_id": "Q8229164",
+          "label": "Vegan cuisine",
+          "score": 0.4372
+        },
+        {
+          "_id": "Q8133250",
+          "label": "Western cuisine",
+          "score": 0.4176
+        },
+        {
+          "_id": "Q127933",
+          "label": "Fireworks",
+          "score": 0.4155
+        },
+        {
+          "_id": "Q6273463",
+          "label": "Liquids",
+          "score": 0.4128
+        },
+        {
+          "_id": "Q7162764",
+          "label": "Food ingredients",
+          "score": 0.3976
+        },
+        {
+          "_id": "Q16128920",
+          "label": "Berry",
+          "score": 0.3781
+        },
+        {
+          "_id": "Q8386321",
+          "label": "Coffee brands",
+          "score": 0.3657
+        },
+        {
+          "_id": "Q841779",
+          "label": "Coconut milk",
+          "score": 0.3508
+        },
+        {
+          "_id": "Q6425467",
+          "label": "Drink brands",
+          "score": 0.3387
+        },
+        {
+          "_id": "Q10203137",
+          "label": "Plant products",
+          "score": 0.3284
+        },
+        {
+          "_id": "Q8979497",
+          "label": "Coffee companies",
+          "score": 0.3237
+        },
+        {
+          "_id": "Q588748",
+          "label": "Firecracker",
+          "score": 0.3199
+        },
+        {
+          "_id": "Q6511081",
+          "label": "Arab cuisine",
+          "score": 0.3193
+        },
+        {
+          "_id": "Q15263445",
+          "label": "Ice-based food",
+          "score": 0.3171
+        },
+        {
+          "_id": "Q30598021",
+          "label": "Drink industry",
+          "score": 0.3124
+        },
+        {
+          "_id": "Q8878408",
+          "label": "Cuisine of the Americas",
+          "score": 0.3114
+        },
+        {
+          "_id": "Q13241",
+          "label": "Vanilla",
+          "score": 0.308
+        }
+      ],
+      "entities": [
+        {
+          "_id": "Q766148",
+          "label": "Frappuccino",
+          "score": 0.7922,
+          "type": "Food,Beverage"
+        },
+        {
+          "_id": "Q750291",
+          "label": "Frappé coffee",
+          "score": 0.4404,
+          "type": "Food"
+        },
+        {
+          "custom_id": "COM9ee51090b",
+          "label": "nj.com/tips",
+          "type": "Company"
+        },
+        {
+          "custom_id": "PERe1c48444d",
+          "label": "Danielle Halibey",
+          "type": "Person"
+        }
+      ],
+      "primary_section": {
+        "_id": "/shopping-deals",
+        "_website": "nj",
+        "type": "section",
+        "version": "0.6.0",
+        "name": "Shopping Tips and Deals",
+        "description": "Online shopping for the best deals on the internet.",
+        "path": "/shopping-deals",
+        "parent_id": "/",
+        "parent": {
+          "default": "/"
+        },
+        "additional_properties": {
+          "original": {
+            "_id": "/shopping-deals",
+            "_admin": {
+              "commercial_node": null,
+              "url_path": "https://www.nj.com/shopping-deals/",
+              "tracking_node": null,
+              "alias_ids": [
+                "/shopping-deals"
+              ],
+              "default_content": null
+            },
+            "site": {
+              "site_section": "Life and Culture",
+              "site_description": "Online shopping for the best deals on the internet.",
+              "headline": "Online Shopping and the Best Daily Deals",
+              "site_keywords": "shopping, shopping tips, shopping deals, retail, retail shopping, retail tips, retail deals, nj shopping, nj retail, new jersey shopping, new jersey retail, shopping advice, retail advice, shopping details, retail deals",
+              "site_title": "Online Shopping for the Best Daily Deals"
+            },
+            "navigation": {
+              "is_this_a_link_or_a_section": "Both",
+              "nav_title": "Shopping Tips and Deals",
+              "nav_display": "true"
+            },
+            "_website": "nj",
+            "name": "Shopping Tips and Deals",
+            "order": {
+              "default": 1069,
+              "ellipsis": 1063,
+              "toprail": 2006,
+              "hamburger-menu": 1069
+            },
+            "parent": {
+              "default": "/",
+              "ellipsis": "/",
+              "toprail": "/entertainment",
+              "hamburger-menu": "/"
+            },
+            "ancestors": {
+              "default": [],
+              "ellipsis": [
+                "/"
+              ],
+              "toprail": [
+                "/entertainment",
+                "/"
+              ],
+              "hamburger-menu": []
+            },
+            "inactive": false,
+            "node_type": "section"
+          }
+        }
+      },
+      "sections": [
+        {
+          "_id": "/shopping-deals",
+          "_website": "nj",
+          "type": "section",
+          "version": "0.6.0",
+          "name": "Shopping Tips and Deals",
+          "description": "Online shopping for the best deals on the internet.",
+          "path": "/shopping-deals",
+          "parent_id": "/",
+          "parent": {
+            "default": "/"
+          },
+          "additional_properties": {
+            "original": {
+              "_id": "/shopping-deals",
+              "_admin": {
+                "commercial_node": null,
+                "url_path": "https://www.nj.com/shopping-deals/",
+                "tracking_node": null,
+                "alias_ids": [
+                  "/shopping-deals"
+                ],
+                "default_content": null
+              },
+              "site": {
+                "site_section": "Life and Culture",
+                "site_description": "Online shopping for the best deals on the internet.",
+                "headline": "Online Shopping and the Best Daily Deals",
+                "site_keywords": "shopping, shopping tips, shopping deals, retail, retail shopping, retail tips, retail deals, nj shopping, nj retail, new jersey shopping, new jersey retail, shopping advice, retail advice, shopping details, retail deals",
+                "site_title": "Online Shopping for the Best Daily Deals"
+              },
+              "navigation": {
+                "is_this_a_link_or_a_section": "Both",
+                "nav_title": "Shopping Tips and Deals",
+                "nav_display": "true"
+              },
+              "_website": "nj",
+              "name": "Shopping Tips and Deals",
+              "order": {
+                "default": 1069,
+                "ellipsis": 1063,
+                "toprail": 2006,
+                "hamburger-menu": 1069
+              },
+              "parent": {
+                "default": "/",
+                "ellipsis": "/",
+                "toprail": "/entertainment",
+                "hamburger-menu": "/"
+              },
+              "ancestors": {
+                "default": [],
+                "ellipsis": [
+                  "/"
+                ],
+                "toprail": [
+                  "/entertainment",
+                  "/"
+                ],
+                "hamburger-menu": []
+              },
+              "inactive": false,
+              "node_type": "section"
+            }
+          },
+          "_website_section_id": "nj./shopping-deals"
+        },
+        {
+          "_id": "/shopping",
+          "_website": "lehighvalleylive",
+          "type": "section",
+          "version": "0.6.0",
+          "name": "Shopping",
+          "description": "Online shopping for the best deals on the internet.",
+          "path": "/shopping",
+          "parent_id": "/",
+          "parent": {
+            "default": "/"
+          },
+          "additional_properties": {
+            "original": {
+              "_id": "/shopping",
+              "_website": "lehighvalleylive",
+              "name": "Shopping",
+              "inactive": false,
+              "ancestors": {
+                "default": [],
+                "ellipsis": [
+                  "/"
+                ],
+                "toprail": [
+                  "/entertainment",
+                  "/"
+                ]
+              },
+              "parent": {
+                "default": "/",
+                "ellipsis": "/",
+                "toprail": "/entertainment"
+              },
+              "order": {
+                "ellipsis": 1018,
+                "toprail": 2003
+              },
+              "_admin": {
+                "alias_ids": [
+                  "/shopping"
+                ],
+                "commercial_node": null,
+                "default_content": null,
+                "tracking_node": null,
+                "url_path": "https://www.lehighvalleylive.com/shopping/"
+              },
+              "navigation": {
+                "is_this_a_link_or_a_section": "Both",
+                "nav_display": "true",
+                "nav_title": "Online Shopping"
+              },
+              "site": {
+                "headline": "Online Shopping and the Best Daily Deals",
+                "site_description": "Online shopping for the best deals on the internet.",
+                "site_keywords": "online shopping, shopping, daily deals",
+                "site_section": "Life and Culture",
+                "site_title": "Online Shopping for the Best Daily Deals"
+              },
+              "node_type": "section"
+            }
+          },
+          "_website_section_id": "lehighvalleylive./shopping"
+        }
+      ],
+      "tags": [
+        {
+          "description": "@river",
+          "slug": "river",
+          "text": "@river"
+        },
+        {
+          "description": "@exmeter",
+          "slug": "exmeter",
+          "text": "@exmeter"
+        },
+        {
+          "description": "@topstories",
+          "slug": "topstories",
+          "text": "@topstories"
+        },
+        {
+          "description": "amazon-shop",
+          "slug": "amazon-shop",
+          "text": "amazon-shop"
+        },
+        {
+          "description": "4th-of-july-deals",
+          "slug": "4th-of-july-deals",
+          "text": "4th-of-july-deals"
+        }
+      ]
+    },
+    "type": "story",
+    "version": "0.10.11",
+    "websites": {
+      "lehighvalleylive": {
+        "website_section": {
+          "_id": "/shopping",
+          "_website": "lehighvalleylive",
+          "type": "section",
+          "version": "0.6.0",
+          "name": "Shopping",
+          "description": "Online shopping for the best deals on the internet.",
+          "path": "/shopping",
+          "parent_id": "/",
+          "parent": {
+            "default": "/"
+          },
+          "additional_properties": {
+            "original": {
+              "_id": "/shopping",
+              "_website": "lehighvalleylive",
+              "name": "Shopping",
+              "inactive": false,
+              "ancestors": {
+                "default": [],
+                "ellipsis": [
+                  "/"
+                ],
+                "toprail": [
+                  "/entertainment",
+                  "/"
+                ]
+              },
+              "parent": {
+                "default": "/",
+                "ellipsis": "/",
+                "toprail": "/entertainment"
+              },
+              "order": {
+                "ellipsis": 1018,
+                "toprail": 2003
+              },
+              "_admin": {
+                "alias_ids": [
+                  "/shopping"
+                ],
+                "commercial_node": null,
+                "default_content": null,
+                "tracking_node": null,
+                "url_path": "https://www.lehighvalleylive.com/shopping/"
+              },
+              "navigation": {
+                "is_this_a_link_or_a_section": "Both",
+                "nav_display": "true",
+                "nav_title": "Online Shopping"
+              },
+              "site": {
+                "headline": "Online Shopping and the Best Daily Deals",
+                "site_description": "Online shopping for the best deals on the internet.",
+                "site_keywords": "online shopping, shopping, daily deals",
+                "site_section": "Life and Culture",
+                "site_title": "Online Shopping for the Best Daily Deals"
+              },
+              "node_type": "section"
+            }
+          },
+          "_website_section_id": "lehighvalleylive./shopping"
+        },
+        "website_url": "/shopping/2025/07/forget-the-starbucks-line-amazon-can-get-you-a-ninja-slushi-to-diy-a-firework-frapp-ahead-of-july-4th.html"
+      },
+      "nj": {
+        "website_section": {
+          "_id": "/shopping-deals",
+          "_website": "nj",
+          "type": "section",
+          "version": "0.6.0",
+          "name": "Shopping Tips and Deals",
+          "description": "Online shopping for the best deals on the internet.",
+          "path": "/shopping-deals",
+          "parent_id": "/",
+          "parent": {
+            "default": "/"
+          },
+          "additional_properties": {
+            "original": {
+              "_id": "/shopping-deals",
+              "_admin": {
+                "commercial_node": null,
+                "url_path": "https://www.nj.com/shopping-deals/",
+                "tracking_node": null,
+                "alias_ids": [
+                  "/shopping-deals"
+                ],
+                "default_content": null
+              },
+              "site": {
+                "site_section": "Life and Culture",
+                "site_description": "Online shopping for the best deals on the internet.",
+                "headline": "Online Shopping and the Best Daily Deals",
+                "site_keywords": "shopping, shopping tips, shopping deals, retail, retail shopping, retail tips, retail deals, nj shopping, nj retail, new jersey shopping, new jersey retail, shopping advice, retail advice, shopping details, retail deals",
+                "site_title": "Online Shopping for the Best Daily Deals"
+              },
+              "navigation": {
+                "is_this_a_link_or_a_section": "Both",
+                "nav_title": "Shopping Tips and Deals",
+                "nav_display": "true"
+              },
+              "_website": "nj",
+              "name": "Shopping Tips and Deals",
+              "order": {
+                "default": 1069,
+                "ellipsis": 1063,
+                "toprail": 2006,
+                "hamburger-menu": 1069
+              },
+              "parent": {
+                "default": "/",
+                "ellipsis": "/",
+                "toprail": "/entertainment",
+                "hamburger-menu": "/"
+              },
+              "ancestors": {
+                "default": [],
+                "ellipsis": [
+                  "/"
+                ],
+                "toprail": [
+                  "/entertainment",
+                  "/"
+                ],
+                "hamburger-menu": []
+              },
+              "inactive": false,
+              "node_type": "section"
+            }
+          },
+          "_website_section_id": "nj./shopping-deals"
+        },
+        "website_url": "/shopping-deals/2025/07/forget-the-starbucks-line-amazon-can-get-you-a-ninja-slushi-to-diy-a-firework-frapp-ahead-of-july-4th.html"
+      }
+    },
+    "workflow": {
+      "status_code": 1
+    },
+    "canonical_url": "/shopping-deals/2025/07/forget-the-starbucks-line-amazon-can-get-you-a-ninja-slushi-to-diy-a-firework-frapp-ahead-of-july-4th.html",
+    "publishing": {
+      "scheduled_operations": {
+        "publish_edition": [],
+        "unpublish_edition": []
+      }
+    },
+    "website": "nj",
+    "website_url": "/shopping-deals/2025/07/forget-the-starbucks-line-amazon-can-get-you-a-ninja-slushi-to-diy-a-firework-frapp-ahead-of-july-4th.html"
+  },
+  {
+    "_id": "L6GN3MLTDVHJRMDF7ZBIBDXQHM",
+    "additional_properties": {
+      "has_published_copy": true,
+      "is_published": true,
+      "publish_date": "2025-07-02T01:02:44.442Z"
+    },
+    "canonical_website": "nj",
+    "content_elements": [
+      {
+        "_id": "3OVTQY23BRGPZJ5NLWKXPE3YGQ",
+        "additional_properties": {
+          "countryId": 227,
+          "fullSizeResizeUrl": "/resizer/v2/3OVTQY23BRGPZJ5NLWKXPE3YGQ.jpg?auth=7f516fcf8d6a81f921792dd06366b6234ee8c02cdae1f99f46cf9b2d31378861",
+          "galleries": [],
+          "ingestionMethod": "manual",
+          "iptc_job_identifier": "OTK01",
+          "iptc_source": "FR159797 AP",
+          "iptc_title": "FRE",
+          "mime_type": "image/jpeg",
+          "originalName": "Escarra.jpg",
+          "originalUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3OVTQY23BRGPZJ5NLWKXPE3YGQ.jpg",
+          "proxyUrl": "/resizer/v2/3OVTQY23BRGPZJ5NLWKXPE3YGQ.jpg?auth=7f516fcf8d6a81f921792dd06366b6234ee8c02cdae1f99f46cf9b2d31378861",
+          "published": true,
+          "resizeUrl": "/resizer/v2/3OVTQY23BRGPZJ5NLWKXPE3YGQ.jpg?auth=7f516fcf8d6a81f921792dd06366b6234ee8c02cdae1f99f46cf9b2d31378861",
+          "restricted": false,
+          "takenOn": "2025-05-14T13:05:56Z",
+          "thumbnailResizeUrl": "/resizer/v2/3OVTQY23BRGPZJ5NLWKXPE3YGQ.jpg?auth=7f516fcf8d6a81f921792dd06366b6234ee8c02cdae1f99f46cf9b2d31378861&width=300",
+          "version": 0,
+          "template_id": 7
+        },
+        "address": {
+          "locality": "Seattle",
+          "region": "WA",
+          "country_name": "USA"
+        },
+        "auth": {
+          "1": "7f516fcf8d6a81f921792dd06366b6234ee8c02cdae1f99f46cf9b2d31378861"
+        },
+        "caption": "Yankees rookie catcher J.C. Escarra was charged an error for catcher's interference while the Blue Jays scored five seventh-inning runs Monday, turning a 4-4 tie into a 9-4 lead in a game that ended up 12-5.",
+        "copyright": "Copyright 2025 The Associated Press. All rights reserved.",
+        "created_date": "2025-07-02T00:10:02Z",
+        "credits": {
+          "affiliation": [
+            {
+              "name": "AP",
+              "type": "author"
+            }
+          ],
+          "by": [
+            {
+              "byline": "Stephen Brashear",
+              "name": "Stephen Brashear",
+              "type": "author"
+            }
+          ]
+        },
+        "height": 714,
+        "image_type": "photograph",
+        "last_updated_date": "2025-07-02T00:10:02Z",
+        "licensable": false,
+        "owner": {
+          "id": "advancelocal",
+          "sponsored": false
+        },
+        "slug": "Yankees Mariners Baseball",
+        "source": {
+          "additional_properties": {
+            "editor": "photo center"
+          },
+          "edit_url": "https://advancelocal.arcpublishing.com/photo/3OVTQY23BRGPZJ5NLWKXPE3YGQ",
+          "system": "photo center"
+        },
+        "subtitle": "Yankees Mariners Baseball",
+        "taxonomy": {
+          "associated_tasks": []
+        },
+        "type": "image",
+        "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3OVTQY23BRGPZJ5NLWKXPE3YGQ.jpg",
+        "version": "0.10.9",
+        "width": 1000,
+        "syndication": {},
+        "creditIPTC": "AP",
+        "country_name": "United States"
+      },
+      {
+        "_id": "S6TSOQ4NBREHFFQY2BM7ZTEUHE",
+        "additional_properties": {},
+        "content": "<b>TORONTO </b>— <a href=\"https://www.nj.com/yankees/2025/05/heres-proof-yankees-ex-uber-driver-is-more-than-feel-good-story-of-season.html\" target=\"_blank\" rel=\"\" title=\"https://www.nj.com/yankees/2025/05/heres-proof-yankees-ex-uber-driver-is-more-than-feel-good-story-of-season.html\">J.C. Escarra</a> feels personally responsible for the <a href=\"https://www.nj.com/yankees/2025/07/not-even-max-fried-can-save-yankees-whose-slump-continues-with-12-5-thumping-in-toronto.html\" target=\"_blank\" rel=\"\" title=\"https://www.nj.com/yankees/2025/07/not-even-max-fried-can-save-yankees-whose-slump-continues-with-12-5-thumping-in-toronto.html\">Yankees’ 12-5 loss</a> to the Blue Jays on Tuesday, a game-changing catcher’s interference on a check swing.",
+        "type": "text"
+      },
+      {
+        "_id": "H65GGSPZIFDNRPWYKRT5GUGTRY",
+        "additional_properties": {},
+        "content": "<a href=\"https://www.nj.com/yankees/\" target=\"_blank\" rel=\"noreferrer\" title=\"https://www.nj.com/yankees/\">Yankees</a> manager Aaron Boone blamed the mistake on a rule that he feels MLB ought to change.",
+        "type": "text"
+      },
+      {
+        "_id": "GWML7G3FW5GGLOSX6FKDSZIXN4",
+        "additional_properties": {},
+        "content": "Reliever Luke Weaver, who allowed five seventh-inning rules immediately after the E2, agrees with his skipper.",
+        "type": "text"
+      },
+      {
+        "_id": "NTZ6VKNPIVDLFIFNKMPHRVXNX4",
+        "additional_properties": {},
+        "content": "With two on and one out in the seventh inning of a tie game, the rookie catcher knows that he was too aggressive trying to frame a 3-2 fastball from Luke Weaver that already was a framed strike.",
+        "type": "text"
+      },
+      {
+        "_id": "5FMFJ3FHTZAXHAGJSRNNJOKZ44",
+        "additional_properties": {},
+        "content": "Plate umpire Doug Eddings rung up pinch-hitter Addison Barger, but while checking his swing his bat clipped Escarra’s catcher’s mitt.",
+        "type": "text"
+      },
+      {
+        "_id": "7XBXX5SKCFEI3EV2IADQ3TSWIE",
+        "additional_properties": {},
+        "content": "The Blue Jays asked for replay challenge to overturn the strikeout, won and wound up with the bases loaded and one out instead of two on with two down when Escarra was charged with a second catcher’s interference call in two days.",
+        "type": "text"
+      },
+      {
+        "_id": "6BVPDJ5FZJDDVANLQ4RMUMYUTU",
+        "additional_properties": {},
+        "content": "“It’s on me,” Escarra said. “I intend to get as close as possible, but obviously not letting that happen. I was too close. I didn’t help my team win today … or yesterday.",
+        "type": "text"
+      },
+      {
+        "_id": "HUDRXQOQFFFZ5L6YJV55UA2ZLU",
+        "additional_properties": {},
+        "content": "“It shouldn’t happen, but it’s something I can control. I was just too deep in there trying to steal that strike.”",
+        "type": "text"
+      },
+      {
+        "_id": "WFGGYKKD4BD6TEQ3RYOACQNU5A",
+        "additional_properties": {},
+        "content": "Boone says the Yankees relentlessly prepare to avoid catcher’s interference by knowing which hitters are more prone to hitting a catcher’s mitt with a swing during framing situations.",
+        "type": "text"
+      },
+      {
+        "_id": "A7V2V5UB4ZB4LAIBOKUZRRB6QU",
+        "additional_properties": {},
+        "content": "“We’re incredibly diligent on trying to eliminate that as much as possible,” Boone said. “I don’t know how many times it’s happened to us this year in the first three months.",
+        "type": "text"
+      },
+      {
+        "_id": "3ZQ2TDHJERCS7IPGTMPBC27HNA",
+        "additional_properties": {},
+        "content": "“It is something that we lean into every hitter. Who are we vulnerable with? Who are we not? We’ve met and we do that accordingly with our catchers.”",
+        "type": "text"
+      },
+      {
+        "_id": "2TI5NPZSPJDO5OY2L4TOVTW55Y",
+        "additional_properties": {},
+        "content": "What bothered Boone is that this one occurred when Barger didn’t even swing.",
+        "type": "text"
+      },
+      {
+        "_id": "JLYKMERZOFEGFPIZIEA2BSULVQ",
+        "additional_properties": {},
+        "content": "“We benefited from a check swing last year,” Boone said. “I forget the game, but there should probably be something looked into that where a check swing can’t get you beat like that.”",
+        "type": "text"
+      },
+      {
+        "_id": "ZKQUV6OXVJAEXJMQY4QV2IKZT4",
+        "additional_properties": {},
+        "content": "Weaver feels the same.",
+        "type": "text"
+      },
+      {
+        "_id": "DPZ3ABM6KNBF7GXSTAESKGJTTI",
+        "additional_properties": {},
+        "content": "“It’s pretty devastating, honestly,” he said. “I feel like that’s a really unfortunate part of our game. I don’t really personally think that belongs in our game. I think there should be some type of discretion to it.",
+        "type": "text"
+      },
+      {
+        "_id": "3HXZZVGDUBHCBLUTMVSRBYAKXI",
+        "additional_properties": {},
+        "content": "“I understand that there are moments where it’s very egregious and (batters) hit the glove on a full swing, but you feel like you earned something there and it was taken from you and it’s out of my control at that point.",
+        "type": "text"
+      },
+      {
+        "_id": "N3IRDID3NJAK5FO7MXWQU4IMYA",
+        "additional_properties": {},
+        "content": "“Just a real silly thing to happen.”",
+        "type": "text"
+      },
+      {
+        "_id": "H56EGZWSVFA4TN33WZJ2QV62OU",
+        "additional_properties": {},
+        "content": "After it happened, the floodgates opened with the tie-breaking hit by Clement and then the grand slam by Springer, who had a great day going 3-for-4 with two homers and seven RBI.",
+        "type": "text"
+      },
+      {
+        "_id": "PJRRHNUJV5GJNLEK3W5VDCYKTY",
+        "additional_properties": {},
+        "content": "“I’m trying to get the groundball on the next pitch (to Clement) and it just finds the hole, then you run into a bad pitch there a guy that’s having a nice day and the game gets away from you.”",
+        "type": "text"
+      },
+      {
+        "_id": "B26CQFZDBND4DDPD7LYIULPHFY",
+        "additional_properties": {},
+        "content": "The Blue Jays taking over the game after the catcher’s interference sickened Escarra.",
+        "type": "text"
+      },
+      {
+        "_id": "XYOYARZ56JEYXEGQUYBNS7PVHI",
+        "additional_properties": {},
+        "content": "“Exactly,” he said. “It gave them bases loaded and the big hit came. I could have prevented it, so it was in my control.”",
+        "type": "text"
+      },
+      {
+        "_id": "RBG2QMNBMBBABDROSAI67VEWPE",
+        "additional_properties": {},
+        "content": "<i><b>Yankees -1.5 runline is +128 on </b></i><a href=\"https://adv-c.advancelocal.com/clickout/clickoutPublisher?st=baas_njcom_promos&amp;type=sport&amp;pn=draftkings_default&amp;clickoutElement=anchorTextCTA\" target=\"_blank\" rel=\"nofollow\" title=\"https://adv-c.advancelocal.com/clickout/clickoutPublisher?st=baas_njcom_promos&amp;type=sport&amp;pn=draftkings_default&amp;clickoutElement=anchorTextCTA\"><i><b>DraftKings</b></i></a><i><b> for Wednesday’s game against the Blue Jays. Our comprehensive </b></i><a href=\"https://www.nj.com/betting/reviews/draftkings/\" target=\"_self\" rel=\"\" title=\"https://www.nj.com/betting/reviews/draftkings/\"><i><b>DraftKings Sportsbook review</b></i></a><i><b> will show you how to sign up and get started.</b></i>",
+        "type": "text"
+      },
+      {
+        "_id": "USGDV4CT75BAZHFJVNDFUFZNWI",
+        "additional_properties": {},
+        "content": "Escarra says that he’s never had a problem with catcher’s interference calls until the last two days.",
+        "type": "text"
+      },
+      {
+        "_id": "RRMVADQII5HDTDQHYI4LK5CAQA",
+        "additional_properties": {},
+        "content": "“No,” he said. “It’s just trying to get the glove in the zone. If the pitch is out of the zone, I’m just trying to move it as fast as possible up and forward to steal that strike, to make it look like a strike to the umpire.",
+        "type": "text"
+      },
+      {
+        "_id": "36K44YCT3NA6DBFJBJ7WHL7JDU",
+        "additional_properties": {},
+        "content": "“He wasn’t going to swing, but at the end of the day I shouldn’t have been too close like that.",
+        "type": "text"
+      },
+      {
+        "_id": "IJWJHMQTBNESTDOQVBJ45UCOKI",
+        "additional_properties": {},
+        "content": "“Going forward, I’ve really got to make it a priority to not get in too deep in there.”",
+        "type": "text"
+      },
+      {
+        "_id": "326HC5CZF5HC3AO7EPR7KEKFLY",
+        "additional_properties": {},
+        "content": "<i>Thank you for relying on us to provide the journalism you can trust. Please consider supporting us with a subscription.</i>",
+        "type": "text"
+      },
+      {
+        "_id": "UKYGP4OLCFGUXJXYY73DVT2W6M",
+        "additional_properties": {},
+        "content": "<i>Randy Miller may be reached at </i><a href=\"mailto:%20rmiller@njadvancemedia.com\" target=\"_blank\" rel=\"\" title=\"mailto:%20rmiller@njadvancemedia.com\"><i><b>rmiller@njadvancemedia.com</b></i></a><i>.</i>",
+        "type": "text"
+      }
+    ],
+    "created_date": "2025-07-01T14:10:27.065Z",
+    "credits": {
+      "by": [
+        {
+          "_id": "randymiller",
+          "type": "author",
+          "version": "0.5.8",
+          "name": "Randy Miller",
+          "image": {
+            "url": "https://author-service-images-prod-us-east-1.publishing.aws.arc.pub/advancelocal/77577ede-7a19-4e24-9429-d2885e21368d.png",
+            "version": "0.5.8"
+          },
+          "description": "Randy has been a big baseball fan since he was seven in Jeannette, Pa., and the 1971 Pittsburgh Pirates won the World Series. He started writing for his hometown newspaper at age 15 in 1979. Since 1996, he's been a baseball beat writer for all by three years ... the first 16 covering the Philadelphia Phillies and since 2016 following the Yankees.",
+          "url": "",
+          "slug": "",
+          "social_links": [
+            {
+              "site": "email",
+              "url": "rmiller@njadvancemedia.com"
+            },
+            {
+              "site": "twitter",
+              "url": "RandyJMiller"
+            }
+          ],
+          "socialLinks": [
+            {
+              "site": "email",
+              "url": "rmiller@njadvancemedia.com",
+              "deprecated": true,
+              "deprecation_msg": "Please use social_links."
+            },
+            {
+              "site": "twitter",
+              "url": "RandyJMiller",
+              "deprecated": true,
+              "deprecation_msg": "Please use social_links."
+            }
+          ],
+          "additional_properties": {
+            "original": {
+              "_id": "randymiller",
+              "status": true,
+              "byline": "Randy Miller | NJ Advance Media for NJ.com",
+              "firstName": "Randy",
+              "lastName": "Miller",
+              "twitter": "RandyJMiller",
+              "education": [
+                {
+                  "name": "Jeannette (Pa.) High School, class of 1982; University of Pittsburgh, Class of 1986."
+                }
+              ],
+              "mt_author_id": "11359866",
+              "podcasts": [],
+              "last_updated_date": "2025-10-08T12:05:16.390Z",
+              "books": [
+                {
+                  "title": "Harry the K: The Remarkable Life of Harry Kalas",
+                  "url": "https://www.amazon.com/Harry-Remarkable-Life-Kalas/dp/0762441100",
+                  "publisher": "Running Press"
+                }
+              ],
+              "awards": [
+                {
+                  "name": "Voted No. 2 beat writer in 2025 in APSE contest for category A, USA's biggest newspapers and websites."
+                }
+              ],
+              "role": "Yankees beat writer",
+              "email": "rmiller@njadvancemedia.com",
+              "image": "https://author-service-images-prod-us-east-1.publishing.aws.arc.pub/advancelocal/77577ede-7a19-4e24-9429-d2885e21368d.png",
+              "beat": "Yankees beat writer",
+              "expertise": "Baseball, hockey.",
+              "bio": "Randy has been a big baseball fan since he was seven in Jeannette, Pa., and the 1971 Pittsburgh Pirates won the World Series. He started writing for his hometown newspaper at age 15 in 1979. Since 1996, he's been a baseball beat writer for all by three years ... the first 16 covering the Philadelphia Phillies and since 2016 following the Yankees.",
+              "longBio": "Randy is a native of Jeannette, Pa., a city 25 miles east of Pittsburgh, and has been writing about sports since age 15 when he was covering high schools and Pitt football for the Jeannette News-Dispatch. Since 1996, Randy has been a Major League Baseball beat writer except for three years when he covered hockey. He was on the Philadelphia Phillies beat from 1996-2011 and since 2016 has been a New York Yankees beat writer for NJ Advance Media (Newark Star-Ledger/NJ.com). Known for his dogged reporting skills, Randy has won numerous writing awards over the years. He's been a Baseball Hall of Fame voter since 2006. Away from the ballpark, Randy enjoys Bible study,  country and classic rock music, traveling ... especially to Myrtle Beach and different college football stadiums around the country (especially SEC). He's been a big Pittsburgh Penguins hockey fan since the early 1970s.",
+              "bio_page": "",
+              "slug": ""
+            }
+          }
+        }
+      ]
+    },
+    "description": {
+      "basic": "The Yankees and Blue Jays are playing a four-game series this week at Rogers Centre in Toronto."
+    },
+    "display_date": "2025-07-02T00:15:36.485Z",
+    "distributor": {
+      "category": "staff",
+      "name": "advancelocal",
+      "subcategory": ""
+    },
+    "first_publish_date": "2025-07-02T00:15:36.485Z",
+    "headlines": {
+      "basic": "Yankees lobby for rule change after game-changing catcher’s interference on check swing",
+      "meta_title": "",
+      "mobile": "",
+      "native": "",
+      "print": "",
+      "tablet": "",
+      "web": ""
+    },
+    "last_updated_date": "2025-07-02T15:15:38.04Z",
+    "owner": {
+      "id": "advancelocal",
+      "sponsored": false
+    },
+    "planning": {
+      "story_length": {
+        "character_count_actual": 3907,
+        "inch_count_actual": 5,
+        "line_count_actual": 34,
+        "word_count_actual": 705
+      }
+    },
+    "promo_items": {
+      "basic": {
+        "_id": "3OVTQY23BRGPZJ5NLWKXPE3YGQ",
+        "additional_properties": {
+          "countryId": 227,
+          "fullSizeResizeUrl": "/resizer/v2/3OVTQY23BRGPZJ5NLWKXPE3YGQ.jpg?auth=7f516fcf8d6a81f921792dd06366b6234ee8c02cdae1f99f46cf9b2d31378861",
+          "galleries": [],
+          "ingestionMethod": "manual",
+          "iptc_job_identifier": "OTK01",
+          "iptc_source": "FR159797 AP",
+          "iptc_title": "FRE",
+          "mime_type": "image/jpeg",
+          "originalName": "Escarra.jpg",
+          "originalUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3OVTQY23BRGPZJ5NLWKXPE3YGQ.jpg",
+          "proxyUrl": "/resizer/v2/3OVTQY23BRGPZJ5NLWKXPE3YGQ.jpg?auth=7f516fcf8d6a81f921792dd06366b6234ee8c02cdae1f99f46cf9b2d31378861",
+          "published": true,
+          "resizeUrl": "/resizer/v2/3OVTQY23BRGPZJ5NLWKXPE3YGQ.jpg?auth=7f516fcf8d6a81f921792dd06366b6234ee8c02cdae1f99f46cf9b2d31378861",
+          "restricted": false,
+          "takenOn": "2025-05-14T13:05:56Z",
+          "thumbnailResizeUrl": "/resizer/v2/3OVTQY23BRGPZJ5NLWKXPE3YGQ.jpg?auth=7f516fcf8d6a81f921792dd06366b6234ee8c02cdae1f99f46cf9b2d31378861&width=300",
+          "version": 0,
+          "template_id": 7
+        },
+        "address": {
+          "locality": "Seattle",
+          "region": "WA",
+          "country_name": "USA"
+        },
+        "auth": {
+          "1": "7f516fcf8d6a81f921792dd06366b6234ee8c02cdae1f99f46cf9b2d31378861"
+        },
+        "caption": "Yankees rookie catcher J.C. Escarra was charged an error for catcher's interference while the Blue Jays scored five seventh-inning runs Monday, turning a 4-4 tie into a 9-4 lead in a game that ended up 12-5.",
+        "copyright": "Copyright 2025 The Associated Press. All rights reserved.",
+        "created_date": "2025-07-02T00:10:02Z",
+        "credits": {
+          "affiliation": [
+            {
+              "name": "AP",
+              "type": "author"
+            }
+          ],
+          "by": [
+            {
+              "byline": "Stephen Brashear",
+              "name": "Stephen Brashear",
+              "type": "author"
+            }
+          ]
+        },
+        "height": 714,
+        "image_type": "photograph",
+        "last_updated_date": "2025-07-02T00:10:02Z",
+        "licensable": false,
+        "owner": {
+          "id": "advancelocal",
+          "sponsored": false
+        },
+        "slug": "Yankees Mariners Baseball",
+        "source": {
+          "additional_properties": {
+            "editor": "photo center"
+          },
+          "edit_url": "https://advancelocal.arcpublishing.com/photo/3OVTQY23BRGPZJ5NLWKXPE3YGQ",
+          "system": "photo center"
+        },
+        "subtitle": "Yankees Mariners Baseball",
+        "taxonomy": {
+          "associated_tasks": []
+        },
+        "type": "image",
+        "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3OVTQY23BRGPZJ5NLWKXPE3YGQ.jpg",
+        "version": "0.10.9",
+        "width": 1000,
+        "syndication": {},
+        "creditIPTC": "AP",
+        "country_name": "United States"
+      }
+    },
+    "publish_date": "2025-07-02T15:15:37.918Z",
+    "related_content": {
+      "basic": [],
+      "clonedChildren": [],
+      "clonedFromParent": []
+    },
+    "revision": {
+      "branch": "default",
+      "editions": [
+        "default"
+      ],
+      "parent_id": "ZU4YVNTPTJFYHCAF2SUPYHDHAA",
+      "published": true,
+      "revision_id": "YYZH5FHW3FFUXG6WLABEII4MKI"
+    },
+    "source": {
+      "name": "advancelocal",
+      "source_type": "staff",
+      "system": "composer"
+    },
+    "subtype": "article",
+    "taxonomy": {
+      "categories": [
+        {
+          "_id": "483",
+          "classifier": "iab_content_taxonomy",
+          "name": "Sports",
+          "score": 1
+        },
+        {
+          "_id": "483.535",
+          "classifier": "iab_content_taxonomy",
+          "name": "Sports>Softball",
+          "score": 1
+        },
+        {
+          "_id": "483.545",
+          "classifier": "iab_content_taxonomy",
+          "name": "Sports>Baseball",
+          "score": 1
+        },
+        {
+          "_id": "8VZQHL",
+          "classifier": "iab_content_taxonomy",
+          "name": "Events",
+          "score": 0.4047
+        }
+      ],
+      "content_topics": [
+        {
+          "_id": "Q283117",
+          "label": "Interference (baseball)",
+          "score": 1
+        },
+        {
+          "_id": "Q3237411",
+          "label": "Glossary of baseball terms",
+          "score": 1
+        },
+        {
+          "_id": "Q1457982",
+          "label": "Sports",
+          "score": 1
+        },
+        {
+          "_id": "Q113249655",
+          "label": "Outdoor sports",
+          "score": 1
+        },
+        {
+          "_id": "Q9033020",
+          "label": "Athletic sports",
+          "score": 1
+        },
+        {
+          "_id": "Q8597049",
+          "label": "Major League Baseball seasons",
+          "score": 1
+        },
+        {
+          "_id": "Q8290703",
+          "label": "Baseball competitions",
+          "score": 1
+        },
+        {
+          "_id": "Q8291042",
+          "label": "Baseball playoffs and champions",
+          "score": 1
+        },
+        {
+          "_id": "Q8597089",
+          "label": "Major League Baseball teams seasons",
+          "score": 1
+        },
+        {
+          "_id": "Q113506102",
+          "label": "Turf sports",
+          "score": 1
+        },
+        {
+          "_id": "Q7216322",
+          "label": "Team sports",
+          "score": 1
+        },
+        {
+          "_id": "Q7214698",
+          "label": "Major League Baseball",
+          "score": 1
+        },
+        {
+          "_id": "Q8597085",
+          "label": "Major League Baseball teams",
+          "score": 1
+        },
+        {
+          "_id": "Q7214356",
+          "label": "Baseball",
+          "score": 1
+        },
+        {
+          "_id": "Q8286774",
+          "label": "Ball and bat games",
+          "score": 1
+        },
+        {
+          "_id": "Q8597010",
+          "label": "Major League Baseball postseason",
+          "score": 1
+        },
+        {
+          "_id": "Q8596875",
+          "label": "Major League Baseball competitions",
+          "score": 1
+        },
+        {
+          "_id": "Q7458431",
+          "label": "Baseball teams",
+          "score": 0.9754
+        },
+        {
+          "_id": "Q114610653",
+          "label": "Baseball events",
+          "score": 0.9561
+        },
+        {
+          "_id": "Q5089105",
+          "label": "Checked swing",
+          "score": 0.9401
+        },
+        {
+          "_id": "Q1050571",
+          "label": "Catcher",
+          "score": 0.9389
+        },
+        {
+          "_id": "Q17675277",
+          "label": "Baseball games",
+          "score": 0.9314
+        },
+        {
+          "_id": "Q116035920",
+          "label": "Baseball finals",
+          "score": 0.9301
+        },
+        {
+          "_id": "Q8516786",
+          "label": "Seasons in baseball",
+          "score": 0.917
+        },
+        {
+          "_id": "Q7832613",
+          "label": "World Series",
+          "score": 0.9001
+        },
+        {
+          "_id": "Q213417",
+          "label": "New York Yankees",
+          "score": 0.8903
+        },
+        {
+          "_id": "Q6809743",
+          "label": "Sports events",
+          "score": 0.8757
+        },
+        {
+          "_id": "Q13336821",
+          "label": "October sporting events",
+          "score": 0.8503
+        },
+        {
+          "_id": "Q25040082",
+          "label": "Seasons in American sport",
+          "score": 0.8493
+        },
+        {
+          "_id": "Q1154763",
+          "label": "Strikeout",
+          "score": 0.7969
+        },
+        {
+          "_id": "Q4661865",
+          "label": "Aaron Boone",
+          "score": 0.7568
+        },
+        {
+          "_id": "Q17184002",
+          "label": "Luke Weaver (baseball)",
+          "score": 0.7551
+        },
+        {
+          "_id": "Q115867559",
+          "label": "Grass field surfaces",
+          "score": 0.7126
+        },
+        {
+          "_id": "Q5300446",
+          "label": "Doug Eddings",
+          "score": 0.7052
+        },
+        {
+          "_id": "Q6519638",
+          "label": "Sports competitions",
+          "score": 0.704
+        },
+        {
+          "_id": "Q65633445",
+          "label": "Champion seasons in Major League Baseball",
+          "score": 0.6761
+        },
+        {
+          "_id": "Q8800921",
+          "label": "Sports management companies",
+          "score": 0.6628
+        },
+        {
+          "_id": "Q534851",
+          "label": "Home run",
+          "score": 0.6576
+        },
+        {
+          "_id": "Q209897",
+          "label": "Pinch hitter",
+          "score": 0.6546
+        },
+        {
+          "_id": "Q1856798",
+          "label": "Umpire (baseball)",
+          "score": 0.6116
+        },
+        {
+          "_id": "Q63677740",
+          "label": "Yankee Global Enterprises",
+          "score": 0.598
+        },
+        {
+          "_id": "Q7398471",
+          "label": "Sports in the Bronx",
+          "score": 0.5521
+        },
+        {
+          "_id": "Q8585423",
+          "label": "Lawn games",
+          "score": 0.5454
+        },
+        {
+          "_id": "Q22687828",
+          "label": "Batting (baseball)",
+          "score": 0.542
+        },
+        {
+          "_id": "Q113365623",
+          "label": "Team activities",
+          "score": 0.5095
+        },
+        {
+          "_id": "Q8291069",
+          "label": "Baseball positions",
+          "score": 0.5063
+        },
+        {
+          "_id": "Q1198553",
+          "label": "Relief pitcher",
+          "score": 0.5058
+        },
+        {
+          "_id": "Q7379346",
+          "label": "Ball games",
+          "score": 0.5012
+        },
+        {
+          "_id": "Q8675254",
+          "label": "New York Yankees postseason",
+          "score": 0.4956
+        },
+        {
+          "_id": "Q650829",
+          "label": "Toronto Blue Jays",
+          "score": 0.4621
+        },
+        {
+          "_id": "Q120873420",
+          "label": "Addison Barger",
+          "score": 0.4273
+        },
+        {
+          "_id": "Q9730126",
+          "label": "American League",
+          "score": 0.4255
+        },
+        {
+          "_id": "Q7486483",
+          "label": "Los Angeles Dodgers",
+          "score": 0.3803
+        },
+        {
+          "_id": "Q7094538",
+          "label": "Sports rules and regulations",
+          "score": 0.3512
+        },
+        {
+          "_id": "Q8308077",
+          "label": "Boston Red Sox",
+          "score": 0.3467
+        },
+        {
+          "_id": "Q65630519",
+          "label": "Champion seasons in baseball",
+          "score": 0.34
+        },
+        {
+          "_id": "Q8243614",
+          "label": "American League Championship Series",
+          "score": 0.3195
+        },
+        {
+          "_id": "Q8800934",
+          "label": "Sports matches",
+          "score": 0.3102
+        },
+        {
+          "_id": "Q176903",
+          "label": "Inning",
+          "score": 0.3045
+        }
+      ],
+      "entities": [
+        {
+          "_id": "Q4661865",
+          "label": "Aaron Boone",
+          "score": 0.4953,
+          "type": "Agent,Person,Athlete,BaseballPlayer"
+        },
+        {
+          "_id": "Q5300446",
+          "label": "Doug Eddings",
+          "score": 0.4616,
+          "type": "Agent,Person,Athlete,BaseballPlayer"
+        },
+        {
+          "_id": "Q213417",
+          "label": "New York Yankees",
+          "score": 0.3879,
+          "type": "Agent,Organisation,SportsTeam,BaseballTeam"
+        },
+        {
+          "_id": "Q17184002",
+          "label": "Luke Weaver (baseball)",
+          "score": 0.3753,
+          "type": "Agent,Person,Athlete,BaseballPlayer"
+        },
+        {
+          "_id": "Q1163715",
+          "label": "Major League Baseball",
+          "score": 0.3687,
+          "type": "Agent,Event,Organisation,SocietalEvent,SportsLeague,SportsEvent,BaseballLeague"
+        },
+        {
+          "custom_id": "PERb2fffcdb3",
+          "label": "Clement",
+          "type": "Person"
+        },
+        {
+          "custom_id": "PERcef62f6f1",
+          "label": "Boone",
+          "type": "Person"
+        },
+        {
+          "custom_id": "PER0720b4a15",
+          "label": "Barger",
+          "type": "Person"
+        },
+        {
+          "custom_id": "PERc7a495e75",
+          "label": "Springer",
+          "type": "Person"
+        },
+        {
+          "custom_id": "PER43ecf1576",
+          "label": "Weaver",
+          "type": "Person"
+        },
+        {
+          "custom_id": "PER43a93a676",
+          "label": "Randy Miller",
+          "type": "Person"
+        }
+      ],
+      "primary_section": {
+        "_id": "/yankees",
+        "_website": "nj",
+        "type": "section",
+        "version": "0.6.0",
+        "name": "Yankees",
+        "description": "Get the latest New York Yankees news, blogs and rumors. Find schedule, roster, scores, photos, and join fan forum at NJ.com.",
+        "path": "/yankees",
+        "parent_id": "/",
+        "parent": {
+          "default": "/"
+        },
+        "additional_properties": {
+          "original": {
+            "_id": "/yankees",
+            "site": {
+              "site_description": "Get the latest New York Yankees news, blogs and rumors. Find schedule, roster, scores, photos, and join fan forum at NJ.com.",
+              "site_keywords": "new York Yankees, new York Yankees roster, new York Yankees schedule, new York Yankees news, new York Yankees rumor, MLB news",
+              "site_title": "New York Yankees Baseball | MLB News",
+              "headline": "Yankees",
+              "site_section": "Sports"
+            },
+            "_admin": {
+              "default_content": null,
+              "alias_ids": [
+                "/yankees"
+              ],
+              "tracking_node": null,
+              "commercial_node": null,
+              "url_path": "https://www.nj.com/yankees/"
+            },
+            "navigation": {
+              "nav_title": "Yankees",
+              "nav_display": "true",
+              "is_this_a_link_or_a_section": "Link"
+            },
+            "_website": "nj",
+            "name": "Yankees",
+            "order": {
+              "ellipsis": 2012,
+              "toprail": 2006,
+              "default": 1036,
+              "native-apps-team-yankees": 1002,
+              "native-app-news": 2009,
+              "hamburger-menu": 1036,
+              "subnav-sports": 1003
+            },
+            "parent": {
+              "default": "/",
+              "ellipsis": "/sports",
+              "toprail": "/sports",
+              "native-apps-team-yankees": "/",
+              "native-app-news": "/sports/app",
+              "hamburger-menu": "/",
+              "subnav-sports": "/"
+            },
+            "ancestors": {
+              "default": [],
+              "ellipsis": [
+                "/sports"
+              ],
+              "toprail": [
+                "/sports",
+                "/"
+              ],
+              "native-apps-team-yankees": [
+                "/"
+              ],
+              "native-app-news": [
+                "/",
+                "/sports/app"
+              ],
+              "hamburger-menu": [],
+              "subnav-sports": [
+                "/"
+              ]
+            },
+            "inactive": false,
+            "node_type": "section"
+          }
+        }
+      },
+      "sections": [
+        {
+          "_id": "/yankees",
+          "_website": "nj",
+          "type": "section",
+          "version": "0.6.0",
+          "name": "Yankees",
+          "description": "Get the latest New York Yankees news, blogs and rumors. Find schedule, roster, scores, photos, and join fan forum at NJ.com.",
+          "path": "/yankees",
+          "parent_id": "/",
+          "parent": {
+            "default": "/"
+          },
+          "additional_properties": {
+            "original": {
+              "_id": "/yankees",
+              "site": {
+                "site_description": "Get the latest New York Yankees news, blogs and rumors. Find schedule, roster, scores, photos, and join fan forum at NJ.com.",
+                "site_keywords": "new York Yankees, new York Yankees roster, new York Yankees schedule, new York Yankees news, new York Yankees rumor, MLB news",
+                "site_title": "New York Yankees Baseball | MLB News",
+                "headline": "Yankees",
+                "site_section": "Sports"
+              },
+              "_admin": {
+                "default_content": null,
+                "alias_ids": [
+                  "/yankees"
+                ],
+                "tracking_node": null,
+                "commercial_node": null,
+                "url_path": "https://www.nj.com/yankees/"
+              },
+              "navigation": {
+                "nav_title": "Yankees",
+                "nav_display": "true",
+                "is_this_a_link_or_a_section": "Link"
+              },
+              "_website": "nj",
+              "name": "Yankees",
+              "order": {
+                "ellipsis": 2012,
+                "toprail": 2006,
+                "default": 1036,
+                "native-apps-team-yankees": 1002,
+                "native-app-news": 2009,
+                "hamburger-menu": 1036,
+                "subnav-sports": 1003
+              },
+              "parent": {
+                "default": "/",
+                "ellipsis": "/sports",
+                "toprail": "/sports",
+                "native-apps-team-yankees": "/",
+                "native-app-news": "/sports/app",
+                "hamburger-menu": "/",
+                "subnav-sports": "/"
+              },
+              "ancestors": {
+                "default": [],
+                "ellipsis": [
+                  "/sports"
+                ],
+                "toprail": [
+                  "/sports",
+                  "/"
+                ],
+                "native-apps-team-yankees": [
+                  "/"
+                ],
+                "native-app-news": [
+                  "/",
+                  "/sports/app"
+                ],
+                "hamburger-menu": [],
+                "subnav-sports": [
+                  "/"
+                ]
+              },
+              "inactive": false,
+              "node_type": "section"
+            }
+          },
+          "_website_section_id": "nj./yankees"
+        },
+        {
+          "_id": "/sports",
+          "_website": "nj",
+          "type": "section",
+          "version": "0.6.0",
+          "name": "Pro & College Sports",
+          "description": "Get breaking news on New Jersey high school, college and professional sports. Find scores, statistics, photos, videos and join the forum discussions at NJ.com.",
+          "path": "/sports",
+          "parent_id": "/",
+          "parent": {
+            "default": "/"
+          },
+          "additional_properties": {
+            "original": {
+              "_id": "/sports",
+              "site": {
+                "site_description": "Get breaking news on New Jersey high school, college and professional sports. Find scores, statistics, photos, videos and join the forum discussions at NJ.com.",
+                "site_keywords": "New Jersey sports, NJ sports, sports news, sports blog, sports scores, sports teams, sports results, sports statistics, sports updates, sports schedules, sports photos",
+                "site_title": "New Jersey Sports | News, Blogs, Photos, Scores & More",
+                "headline": "Sports",
+                "site_section": "Sports"
+              },
+              "_admin": {
+                "default_content": null,
+                "alias_ids": [
+                  "/sports"
+                ],
+                "tracking_node": null,
+                "commercial_node": null,
+                "url_path": "https://www.nj.com/sports/"
+              },
+              "navigation": {
+                "nav_title": "Sports",
+                "nav_display": "true",
+                "is_this_a_link_or_a_section": "Both"
+              },
+              "_website": "nj",
+              "name": "Pro & College Sports",
+              "order": {
+                "ellipsis": 1027,
+                "toprail": 1010,
+                "default": 1007,
+                "native-app-news": 2001,
+                "native-apps-team-rutgers-fbc": 1004,
+                "native-apps-team-yankees": 1003,
+                "native-apps-team-giants": 1003,
+                "native-apps-team-jets": 1003,
+                "native-apps-team-devils": 1003,
+                "native-apps-team-mets": 1003,
+                "native-apps-team-eagles": 1003,
+                "native-apps-team-knicks": 1003,
+                "native-apps-team-rangers": 1003,
+                "hamburger-menu": 1007,
+                "native-app-test": 1002,
+                "photocenter": 1002
+              },
+              "parent": {
+                "default": "/",
+                "ellipsis": "/",
+                "toprail": "/",
+                "native-app-news": "/sports/app",
+                "native-apps-team-rutgers-fbc": "/",
+                "native-apps-team-yankees": "/",
+                "native-apps-team-giants": "/",
+                "native-apps-team-jets": "/",
+                "native-apps-team-devils": "/",
+                "native-apps-team-mets": "/",
+                "native-apps-team-eagles": "/",
+                "native-apps-team-knicks": "/",
+                "native-apps-team-rangers": "/",
+                "hamburger-menu": "/",
+                "native-app-test": "/",
+                "photocenter": "/"
+              },
+              "ancestors": {
+                "default": [],
+                "ellipsis": [
+                  "/"
+                ],
+                "toprail": [
+                  "/"
+                ],
+                "native-app-news": [
+                  "/",
+                  "/sports/app"
+                ],
+                "native-apps-team-rutgers-fbc": [
+                  "/"
+                ],
+                "native-apps-team-yankees": [
+                  "/"
+                ],
+                "native-apps-team-giants": [
+                  "/"
+                ],
+                "native-apps-team-jets": [
+                  "/"
+                ],
+                "native-apps-team-devils": [
+                  "/"
+                ],
+                "native-apps-team-mets": [
+                  "/"
+                ],
+                "native-apps-team-eagles": [
+                  "/"
+                ],
+                "native-apps-team-knicks": [
+                  "/"
+                ],
+                "native-apps-team-rangers": [
+                  "/"
+                ],
+                "hamburger-menu": [],
+                "native-app-test": [
+                  "/"
+                ],
+                "photocenter": [
+                  "/"
+                ]
+              },
+              "inactive": false,
+              "node_type": "section"
+            }
+          },
+          "_website_section_id": "nj./sports"
+        }
+      ],
+      "tags": [
+        {
+          "description": "@exclude-top",
+          "slug": "exclude-top",
+          "text": "@exclude-top"
+        },
+        {
+          "description": "@sub-group-c",
+          "slug": "sub-group-c",
+          "text": "@sub-group-c"
+        },
+        {
+          "description": "@sub-group-b",
+          "slug": "sub-group-b",
+          "text": "@sub-group-b"
+        },
+        {
+          "description": "@subscriberexclusive",
+          "slug": "subscriberexclusive",
+          "text": "@subscriberexclusive"
+        }
+      ]
+    },
+    "type": "story",
+    "version": "0.10.11",
+    "websites": {
+      "nj": {
+        "website_section": {
+          "_id": "/yankees",
+          "_website": "nj",
+          "type": "section",
+          "version": "0.6.0",
+          "name": "Yankees",
+          "description": "Get the latest New York Yankees news, blogs and rumors. Find schedule, roster, scores, photos, and join fan forum at NJ.com.",
+          "path": "/yankees",
+          "parent_id": "/",
+          "parent": {
+            "default": "/"
+          },
+          "additional_properties": {
+            "original": {
+              "_id": "/yankees",
+              "site": {
+                "site_description": "Get the latest New York Yankees news, blogs and rumors. Find schedule, roster, scores, photos, and join fan forum at NJ.com.",
+                "site_keywords": "new York Yankees, new York Yankees roster, new York Yankees schedule, new York Yankees news, new York Yankees rumor, MLB news",
+                "site_title": "New York Yankees Baseball | MLB News",
+                "headline": "Yankees",
+                "site_section": "Sports"
+              },
+              "_admin": {
+                "default_content": null,
+                "alias_ids": [
+                  "/yankees"
+                ],
+                "tracking_node": null,
+                "commercial_node": null,
+                "url_path": "https://www.nj.com/yankees/"
+              },
+              "navigation": {
+                "nav_title": "Yankees",
+                "nav_display": "true",
+                "is_this_a_link_or_a_section": "Link"
+              },
+              "_website": "nj",
+              "name": "Yankees",
+              "order": {
+                "ellipsis": 2012,
+                "toprail": 2006,
+                "default": 1036,
+                "native-apps-team-yankees": 1002,
+                "native-app-news": 2009,
+                "hamburger-menu": 1036,
+                "subnav-sports": 1003
+              },
+              "parent": {
+                "default": "/",
+                "ellipsis": "/sports",
+                "toprail": "/sports",
+                "native-apps-team-yankees": "/",
+                "native-app-news": "/sports/app",
+                "hamburger-menu": "/",
+                "subnav-sports": "/"
+              },
+              "ancestors": {
+                "default": [],
+                "ellipsis": [
+                  "/sports"
+                ],
+                "toprail": [
+                  "/sports",
+                  "/"
+                ],
+                "native-apps-team-yankees": [
+                  "/"
+                ],
+                "native-app-news": [
+                  "/",
+                  "/sports/app"
+                ],
+                "hamburger-menu": [],
+                "subnav-sports": [
+                  "/"
+                ]
+              },
+              "inactive": false,
+              "node_type": "section"
+            }
+          },
+          "_website_section_id": "nj./yankees"
+        },
+        "website_url": "/yankees/2025/07/yankees-lobby-for-rule-change-after-game-changing-catchers-interference-on-check-swing.html"
+      }
+    },
+    "workflow": {
+      "status_code": 1
+    },
+    "canonical_url": "/yankees/2025/07/yankees-lobby-for-rule-change-after-game-changing-catchers-interference-on-check-swing.html",
+    "publishing": {
+      "scheduled_operations": {
+        "publish_edition": [],
+        "unpublish_edition": []
+      }
+    },
+    "website": "nj",
+    "website_url": "/yankees/2025/07/yankees-lobby-for-rule-change-after-game-changing-catchers-interference-on-check-swing.html"
+  }
+]

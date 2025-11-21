@@ -1,0 +1,17 @@
+# Keep this minimal - candidates will add their own
+
+# Internal files (do not commit to public repo)
+EVALUATION_RUBRIC.md
+INTERNAL_README.md
+HIDDEN_TEST_SUITE/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
