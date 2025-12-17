@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "fixture-1",
+    "title": "Fixture article 1",
+    "url": "http://example.com/fixture-1",
+    "website": "example",
+    "sections": ["News"],
+    "categories": ["Category1"],
+    "tags": ["tag1"],
+    "thumb": "http://example.com/thumb1.jpg",
+    "content_elements": [
+      {"type": "text", "content": "First fixture document text."}
+    ],
+    "additional_properties": {
+      "publish_date": "2025-07-02T00:00:00Z"
+    }
+  },
+  {
+    "_id": "fixture-2",
+    "title": "Fixture article 2 (no optional arrays)",
+    "url": "http://example.com/fixture-2",
+    "website": "example",
+    "content_elements": [
+      {"type": "text", "content": "Second fixture document text."}
+    ]
+  },
+  {
+    "_id": "fixture-skip-no-text",
+    "title": "Should be skipped",
+    "url": "http://example.com/fixture-skip",
+    "website": "example",
+    "content_elements": [
+      {"type": "text", "content": "   "}
+    ]
+  }
+]
