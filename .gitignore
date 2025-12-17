@@ -31,6 +31,7 @@ logs/
 output/
 *.json
 !data/*.json        # allow raw sample input files in data/
+!tests/fixtures/*.json   # allow test fixture JSON files
 
 # Pipeline-generated artifacts
 *.pickle
