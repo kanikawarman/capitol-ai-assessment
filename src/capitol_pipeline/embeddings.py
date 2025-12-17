@@ -27,7 +27,8 @@ from openai import OpenAI
 
 logger = logging.getLogger(__name__)
 
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+# Global client, but initialized lazily so imports don't crash in CI
+client: OpenAI | None = None
 USE_FAKE_EMBEDDINGS = os.getenv("USE_FAKE_EMBEDDINGS", "0") == "1"
 
 EMBEDDING_MODEL = "text-embedding-3-small"
@@ -36,6 +37,27 @@ EMBEDDING_MODEL = "text-embedding-3-small"
 # (~4 chars/token average, using 8000 chars gives ~2000 tokens = safe margin)
 MAX_EMBEDDING_CHARS = int(os.getenv("MAX_EMBEDDING_CHARS", "8000"))
 
+def _get_client() -> OpenAI:
+    """
+    Lazily create the OpenAI client.
+
+    - If tests have monkeypatched `embeddings.client`, we just return that.
+    - If no client and no OPENAI_API_KEY, raise a clear RuntimeError.
+    """
+    global client
+    if client is not None:
+        return client
+
+    api_key = os.getenv("OPENAI_API_KEY")
+    if not api_key:
+        raise RuntimeError(
+            "OPENAI_API_KEY is not set. "
+            "Set it in your environment to call OpenAI, or monkeypatch "
+            "`embed_texts`/`client` in tests."
+        )
+
+    client = OpenAI(api_key=api_key)
+    return client
 
 def _truncate_for_embedding(text: str, max_chars: int = MAX_EMBEDDING_CHARS) -> str:
     """
@@ -140,6 +162,7 @@ def embed_texts(
                 model, start, end, len(batch)
             )
             
+            client = _get_client()
             response = client.embeddings.create(
                 model=model,
                 input=batch,
