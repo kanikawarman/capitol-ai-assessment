@@ -1,17 +1,62 @@
-# Keep this minimal - candidates will add their own
+# ==============================
+# Python Artifacts
+# ==============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
 
-# Internal files (do not commit to public repo)
-EVALUATION_RUBRIC.md
-INTERNAL_README.md
-HIDDEN_TEST_SUITE/
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
 
-# OS files
-.DS_Store
-Thumbs.db
+# Bytecode caches
+.ipynb_checkpoints/
+.mypy_cache/
+.pytest_cache/
+.pyright/
+.dmypy.json
+dmypy.json
 
-# Editor files
+# ==============================
+# Logs & Outputs
+# ==============================
+logs/
+*.log
+
+# Output JSON / embeddings
+output/
+*.json
+!data/*.json        # allow raw sample input files in data/
+
+# Pipeline-generated artifacts
+*.pickle
+*.pkl
+
+# ==============================
+# Environment / Secrets
+# ==============================
+.env
+.env.*
+*.env
+OPENAI_API_KEY
+API_KEY
+secrets.json
+
+# ==============================
+# IDE / Editor Settings
+# ==============================
 .vscode/
 .idea/
-*.swp
-*.swo
-*~
+*.iml
+
+# MacOS metadata
+.DS_Store
+
+# ==============================
+# Git & Misc
+# ==============================
+.gitignore~s
