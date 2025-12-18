@@ -1,0 +1,41 @@
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs & local artifacts
+logs/
+output/
+*.log
+
+# Development-only JSON outputs
+*.pickle
+*.pkl
+
+# Jupyter / type checking caches
+.ipynb_checkpoints/
+.mypy_cache/
+.pytest_cache/
+.pyright/
+.dmypy.json
+dmypy.json
+
+# Secrets (not copied into image)
+.env
+.env.*
+*.env
+
+# Editor/OS junk
+.vscode/
+.idea/
+.DS_Store
+
+# Git folder — NEVER include in docker builds
+.git/

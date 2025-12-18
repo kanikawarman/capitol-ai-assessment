@@ -329,6 +329,17 @@ def run_pipeline(
     
     output_paths = {}
     
+    # If this is a dry run, do not write any output files at all.
+    if dry_run:
+        logger.info("DRY RUN: skipping write of transformed documents and embeddings")
+        # Return counts but do not create any files or metadata
+        logger.debug(
+            "Pipeline processing completed (dry run): %d raw → %d processed (no files written)",
+            total_raw,
+            len(simplified_docs)
+        )
+        return total_raw, len(simplified_docs), output_paths
+
     try:
         # Write transformed documents
         with transformed_path.open("w", encoding="utf-8") as f:
