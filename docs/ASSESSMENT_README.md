@@ -245,13 +245,6 @@ docker run --rm \
   capitol-pipeline:latest \
   --skip-embeddings
 
-# With custom input file (mounted volume)
-docker run --rm \
-  -e OPENAI_API_KEY=$OPENAI_API_KEY \
-  -v /path/to/data:/app/data \
-  capitol-pipeline:latest \
-  --input data/custom.json
-
 # Mount output directory for persistence
 docker run --rm \
   -e OPENAI_API_KEY=$OPENAI_API_KEY \
@@ -275,13 +268,15 @@ docker run --rm \
 ```bash
 # Run full test suite
 docker run --rm \
+  --entrypoint pytest \
   capitol-pipeline:latest \
-  pytest -q
+  -q
 
 # Run specific test file
 docker run --rm \
+  --entrypoint pytest \
   capitol-pipeline:latest \
-  pytest tests/test_transformers.py -v
+  tests/test_transformers.py -v
 
 ```
 
@@ -289,8 +284,8 @@ docker run --rm \
 
 | Scenario | Time |
 |---|---|
-| Transform only (10 docs, skip embeddings) | 1-1.5 seconds |
-| With embeddings (10 docs, batch size 100) | 1-1.9 seconds |
+| Transform only (10 docs, skip embeddings) | 0.3-0.7 seconds |
+| With embeddings (10 docs, batch size 100) | 0.4-0.9 seconds |
 | Full pipeline (50 docs) | 1.5-2 seconds |
 | Fake embeddings mode (50 docs) | 1.5-2 seconds |
 
@@ -312,20 +307,38 @@ ls -lh output/
 
 #### Verify Qdrant Schema Compliance
 
+After running the pipeline, you can validate the generated Qdrant points file
+to ensure it conforms to the expected schema.
+
+> **Note:** You must pass the *specific* output file path.  
+
+Example:
+
 ```bash
-# Validate using the provided validation script
 python -m src.capitol_pipeline.scripts.validate_output \
-  --qdrant-file output/qdrant_points_*.json \
-  --schema data/qdrant_schema.md
+  --path output/qdrant_points_20251217_093733.json \
+  --expected-dim 1536
 ```
 
 ### 2. Run Automated Tests
+
+The embedding tests rely on the real `embed_texts` logic and use `monkeypatch`
+to inject a fake client. For this reason, the `USE_FAKE_EMBEDDINGS` shortcut
+**must be disabled** when running tests.
+
+> If `USE_FAKE_EMBEDDINGS=1` is set in your shell, several tests in
+> `tests/test_embeddings.py` will fail because `embed_texts` short-circuits and
+> never calls the patched client.
 
 #### Unit Tests
 
 ```bash
 # Run all tests
+# Make sure fake embeddings are disabled for tests
+
+unset USE_FAKE_EMBEDDINGS  # or: export USE_FAKE_EMBEDDINGS=0
 pytest -v
+
 
 # Run specific test module
 pytest tests/test_transformers.py -v
