@@ -209,45 +209,7 @@ Although not “micro-optimizations,” a few design choices directly improve **
   python -m src.capitol_pipeline.scripts.validate_output \
     --qdrant-file output/qdrant_points_*.json \
     --schema data/qdrant_schema.md
-
-This is a great place to put those details, they just need a bit of restructuring so it reads like **intentional trade-offs**, not a raw feature list.
-
-Here’s a tightened version you can drop into `APPROACH.md` to replace what you pasted.
-
----
-
-## 8. Performance & Operational Considerations
-
-This section focuses on how the pipeline balances **speed, cost, robustness, and simplicity** for an assessment-scale workload, and what was intentionally left out for future iterations.
-
-### 8.1 Optimizations Made
-
-- **Batched embedding calls**  
-  - Documents are embedded in configurable batches (`BATCH_SIZE`, default 100).  
-  - This reduces API overhead, improves throughput, and keeps latency predictable even as the number of documents grows.
-
-- **Character-level truncation before embedding**  
-  - Long texts are truncated to `MAX_EMBEDDING_CHARS` (default 8000) *only for the embedding API*, while the full text is preserved in the transformed output.  
-  - This keeps payloads smaller, prevents token-limit errors, and reduces OpenAI costs without changing the stored canonical text.
-
-- **Lean in-memory processing for the assessment scale**  
-  - The current implementation processes lists of documents in memory, which is perfectly adequate for the provided dataset (50 documents) and small-to-medium workloads.  
-  - No unnecessary caching or on-disk intermediate artifacts are created, which keeps the code simple and easy to reason about.
-
-### 8.2 Supporting Mechanisms That Impact Performance & Robustness
-
-Although not “micro-optimizations,” a few design choices directly improve **operational performance** and reliability:
-
-#### Output Validation Script
-
-- **Purpose**: Verify that generated Qdrant points adhere to the expected schema before ingestion.
-- **Location**: `src/capitol_pipeline/scripts/validate_output.py`
-- **Usage**:
-  ```bash
-  python -m src.capitol_pipeline.scripts.validate_output \
-    --qdrant-file output/qdrant_points_*.json \
-    --schema data/qdrant_schema.md
-````
+  ````
 
 * **Checks**:
 
