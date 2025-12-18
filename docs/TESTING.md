@@ -40,7 +40,9 @@ This document summarizes the testing strategy, how to run the test suite, and wh
 Basic run (from project root):
 
 ```bash
-# Fast tests without calling real embedding APIs
+# Make sure fake embeddings are disabled for tests
+
+unset USE_FAKE_EMBEDDINGS  # or: export USE_FAKE_EMBEDDINGS=0
 USE_FAKE_EMBEDDINGS=1 pytest -q
 
 # Full test run (requires OPENAI_API_KEY for real embedding tests)
@@ -73,7 +75,7 @@ Notes:
 
 ## CI Notes
 
-- CI should run `USE_FAKE_EMBEDDINGS=1 pytest -q` to avoid external API dependency and to keep runs fast and reliable.
+- If `USE_FAKE_EMBEDDINGS=1` is set in your shell, several tests in `tests/test_embeddings.py` will fail because `embed_texts` short-circuits never calls the patched client.
 - If a pipeline integration test requiring real embeddings is desired in CI, run it in a separate job with `OPENAI_API_KEY` available and guard costs.
 
 ## Summary
