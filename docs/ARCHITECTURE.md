@@ -8,29 +8,29 @@ This document explains how the pipeline components interact, the data flow, key 
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    Input: Raw API JSON                       │
-│              (data/raw_customer_api.json)                    │
+│                    Input: Raw API JSON                      │
+│              (data/raw_customer_api.json)                   │
 └────────────────────────┬────────────────────────────────────┘
-                 │
-                 ▼
+                         │
+                         ▼
 ┌─────────────────────────────────────────────────────────────┐
-│           Loader Module (loaders.py)                         │
-│   - Load JSON from file                                      │
-│   - Support flexible schema (array, {documents}, {results})  │
-│   - Handle file not found errors gracefully                  │
+│           Loader Module (loaders.py)                        │
+│   - Load JSON from file                                     │
+│   - Support flexible schema (array, {documents}, {results}) │
+│   - Handle file not found errors gracefully                 │
 └────────────────────────┬────────────────────────────────────┘
-                 │
-                 ▼
+                         │
+                         ▼
 ┌─────────────────────────────────────────────────────────────┐
-│         Transformer Module (transformers.py)                 │
+│         Transformer Module (transformers.py)                │
 │   - Extract text from nested content_elements               │
 │   - Clean HTML tags and entities                            │
 │   - Map metadata fields (title, url, dates, categories)     │
 │   - Handle missing/malformed data                           │
 │   - Deduplication by external_id                            │
 └────────────────────────┬────────────────────────────────────┘
-                 │
-                 ▼
+                       │
+                       ▼
        ┌───────────────┴────────────────┐
        │                                │
        ▼                                ▼
@@ -50,7 +50,7 @@ This document explains how the pipeline components interact, the data flow, key 
        │                   (text-embedding-3-small)
        │                                 │
        │                                 ▼
-       │                      ┌──────────────────┐
+       │                      ┌────────────────── ┐
        │                      │ Vector Embeddings │
        │                      │ (1536-dim for     │
        │                      │  embedding-small) │
@@ -60,30 +60,30 @@ This document explains how the pipeline components interact, the data flow, key 
                  │
                  ▼
 ┌─────────────────────────────────────────────────────────────┐
-│        Pipeline Module (pipeline.py)                         │
-│   - Orchestrate transformation → embedding → output          │
+│        Pipeline Module (pipeline.py)                        │
+│   - Orchestrate transformation → embedding → output         │
 │   - Handle errors and logging                               │
 │   - Generate execution metadata                             │
 └────────────────────────┬────────────────────────────────────┘
                  │
                  ▼
-┌─────────────────────────────────────────────────────────────┐
+┌───────────────────────────────────────────────────────────── ┐
 │                  Output Files (Timestamped)                  │
 │                                                              │
-│  1. transformed_TIMESTAMP.json                              │
-│     └─ [{"text": "...", "metadata": {...}}, ...]            │
+│  1. transformed_TIMESTAMP.json                               │
+│     └─ [{"text": "...", "metadata": {...}}, ...]             │
 │                                                              │
-│  2. qdrant_points_TIMESTAMP.json                            │
-│     └─ [{"id": "uuid", "vector": [...], "payload": {}}, ...]│
+│  2. qdrant_points_TIMESTAMP.json                             │
+│     └─ [{"id": "uuid", "vector": [...], "payload": {}}, ...] │
 │                                                              │
-│  3. run_metadata_TIMESTAMP.json                             │
-│     └─ {total_raw, processed, skipped, errors, timestamps...} │
-└─────────────────────────────────────────────────────────────┘
+│  3. run_metadata_TIMESTAMP.json                              │
+│     └─ {total_raw, processed, skipped, errors, timestamps...}│
+└───────────────────────────────────────────────────────────── ┘
 ```
 
 ---
 
-## Component Responsibilities (1–2 sentences each)
+## Component Responsibilities
 
 - `loaders.py` — Read input JSON with flexible schema support (list, `documents`, `results`). Provide a simple, testable API that returns raw document dictionaries.
 
@@ -154,5 +154,3 @@ This document explains how the pipeline components interact, the data flow, key 
 - Correctness & Robustness: Validation, Pydantic models, dry-run, fake-embeddings, and post-run validation script collectively ensure correctness and provide safeguards against regressions.
 
 ---
-
-(End of ARCHITECTURE.md)
