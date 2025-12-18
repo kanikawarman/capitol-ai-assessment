@@ -53,12 +53,6 @@ Run a single test file or module:
 pytest tests/test_transformers.py -q
 ```
 
-Run tests with coverage:
-
-```bash
-pytest --cov=src tests/ --cov-report=term-missing
-```
-
 Notes:
 - Set `USE_FAKE_EMBEDDINGS=1` for CI or local runs where OpenAI access is not available.
 - Tests are designed to be deterministic when fake embeddings are used.
@@ -84,4 +78,4 @@ Notes:
 
 ## Summary
 
-The test-suite focuses on correctness of transformations and safe, repeatable verification of embedding-related logic using a fake-embeddings mode. Tests are fast with the fake mode and suitable for running on CI. If you want, I can add a short CI job snippet (GitHub Actions) to this file to show recommended pipeline steps.
+The test-suite focuses on correctness of transformations and safe, repeatable verification of embedding-related logic using a fake-embeddings mode. Tests are fast with the fake mode and suitable for running on CI.
