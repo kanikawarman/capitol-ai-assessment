@@ -19,7 +19,7 @@
 
 ---
 
-## 2) Transformation Pipeline (overview / pseudocode)
+## 2) Transformation Pipeline (overview)
 
 1. Load input JSON (support list or `{documents|results}` wrapper)
 2. For each raw doc:
@@ -39,7 +39,7 @@
 
 ---
 
-## 3) Edge Cases Handled (quick checklist)
+## 3) Edge Cases Handled
 
 - [x] Missing `external_id` → warn / skip or assign generated id when safe
 - [x] Empty or missing `content_elements` → skip document (logged)
