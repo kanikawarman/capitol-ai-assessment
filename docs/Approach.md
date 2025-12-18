@@ -436,9 +436,3 @@ These limitations were conscious trade-offs to prioritize clarity, maintainabili
 
 ---
 
-### Closing notes
-This `Approach.md` intends to make the engineering rationale fully transparent. If you'd like, I can:
-- Add explicit code pointers (line numbers) to where each decision is implemented,
-- Add sample outputs for more examples,
-- Or convert this into slides or a shorter executive summary for non-technical reviewers.
-
