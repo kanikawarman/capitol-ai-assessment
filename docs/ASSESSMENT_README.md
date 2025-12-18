@@ -1,14 +1,3 @@
-## Core Components Coverage (summary)
-This section provided implementation-level details for transformation, text handling, embeddings, and metadata mapping. Those full details have been moved into focused docs:
-- `docs/SOLUTION.md` — concise field mapping, pipeline overview, edge cases, and configuration summary.
-- `docs/ARCHITECTURE.md` — architecture diagrams, component responsibilities, and data-flow.
-
-Keep here (high-level):
-- Text extraction: collect `text`/`html` fragments from `content_elements`, unescape entities, strip tags, normalize whitespace.
-- Metadata mapping: prefer `_id`/`id`, `headlines.basic`, `canonical_url`, and flatten taxonomy into `categories`, `tags`, `sections`.
-- Embeddings: use batched embedding calls, truncate to `MAX_EMBEDDING_CHARS`, and retry on transient errors.
-
-For full examples, pseudo-code, and edge-case lists see the two docs above.
 # Capitol AI Assessment - Comprehensive Documentation
 
 ## Table of Contents
@@ -25,8 +14,7 @@ For full examples, pseudo-code, and edge-case lists see the two docs above.
 10. [Path-Specific Documentation](#path-specific-documentation)
 11. [Testing](#testing)
 12. [Extra Implementations](#extra-implementations)
-13. [Known Limitations](#known-limitations)
-14. [Future Improvements](#future-improvements)
+13. [Future Improvements](#future-improvements)
 
 ---
 
@@ -42,14 +30,14 @@ This assessment demonstrates a **full-stack, production-grade data ingestion pip
 
 ### What Was Accomplished
 
-- ✅ Transform customer API data (JSON) into Qdrant schema format
-- ✅ Extract and clean text from nested content elements
-- ✅ Generate vector embeddings using OpenAI's embedding API
-- ✅ Build production-grade CLI with argument parsing and logging
-- ✅ Containerize with Docker for reproducible deployments
-- ✅ Comprehensive test suite covering transformation, embeddings, and validation
-- ✅ Output file versioning for idempotent processing
-- ✅ Structured error handling with informative logging
+- Transform customer API data (JSON) into Qdrant schema format
+- Extract and clean text from nested content elements
+- Generate vector embeddings using OpenAI's embedding API
+- Build production-grade CLI with argument parsing and logging
+- Containerize with Docker for reproducible deployments
+- Comprehensive test suite covering transformation, embeddings, and validation
+- Output file versioning for idempotent processing
+- Structured error handling with informative logging
 
 ---
 
@@ -439,31 +427,31 @@ For the precise field mapping and transformation pipeline pseudocode, see:
 
 **This implementation includes**:
 
-✅ **Comprehensive Transformation Logic**
+ **Comprehensive Transformation Logic**
 - All 50 documents from `raw_customer_api.json` can be processed
 - Flexible HTML/markdown cleaning
 - Metadata field mapping with fallbacks
 - Deduplication by external_id
 
-✅ **Error Handling & Validation**
+ **Error Handling & Validation**
 - Missing field detection and logging
 - Graceful skip of malformed documents
 - Output validation against Qdrant schema
 - Error summary in metadata output
 
-✅ **Test Coverage**
+ **Test Coverage**
 - Unit tests: `test_transformers.py` (text cleaning, metadata extraction)
 - Integration tests: `test_pipeline_integration.py` (end-to-end)
 - Validation tests: `test_validate_output.py` (schema compliance)
 - Mock embeddings for fast, API-free testing
 
-✅ **Data Quality**
+ **Data Quality**
 - Character-level truncation for embeddings
 - Deduplication by ID
 - Field presence validation
 - Document count tracking
 
-✅ **Idempotent Processing**
+ **Idempotent Processing**
 - Timestamped output files
 - Optional history overwrite
 - Safe to re-run without side effects
@@ -472,7 +460,7 @@ For the precise field mapping and transformation pipeline pseudocode, see:
 
 **This implementation includes**:
 
-✅ **Containerization**
+ **Containerization**
 - Multi-layer Dockerfile with:
   - Minimal base image (`python:3.11-slim`)
   - Cached dependencies layer
@@ -481,12 +469,12 @@ For the precise field mapping and transformation pipeline pseudocode, see:
 - Docker ignore file to reduce image size
 - Entrypoint/CMD for CLI argument forwarding
 
-✅ **Structured Logging**
+ **Structured Logging**
 - Dual output: console (INFO) + file (DEBUG)
 - Structured format: `timestamp | level | module | message`
 - Log file in `logs/` directory for troubleshooting
 
-✅ **CLI & Argument Parsing**
+ **CLI & Argument Parsing**
 - 6 command-line arguments:
   - `--input`: Custom input file path
   - `--output-dir`: Output directory
@@ -496,13 +484,13 @@ For the precise field mapping and transformation pipeline pseudocode, see:
   - `--batch-size`: Embedding batch size
   - `--no-history`: Overwrite previous outputs
 
-✅ **Environment-Driven Configuration**
+ **Environment-Driven Configuration**
 - 12-factor app: All config via env vars
 - No hardcoded secrets
 - Support for `.env` files
 - Easy to integrate with CI/CD
 
-✅ **Metrics & Observability**
+ **Metrics & Observability**
 - Execution metadata in JSON:
   - Document counts (raw, processed, skipped)
   - Timestamps (start, end, elapsed)
@@ -512,7 +500,7 @@ For the precise field mapping and transformation pipeline pseudocode, see:
 - Log-based telemetry
 - Error tracking for debugging
 
-✅ **Docker Deployment**
+ **Docker Deployment**
 - Clean, minimal image (< 200MB)
 - Volume mounts for data persistence
 - Environment variable injection
@@ -522,18 +510,18 @@ For the precise field mapping and transformation pipeline pseudocode, see:
 
 **This implementation combines both paths**:
 
-✅ **Data Transformation** (Path A)
+ **Data Transformation** (Path A)
 - All core transformation logic implemented
 - Comprehensive error handling
 - Test coverage
 
-✅ **Infrastructure** (Path B)
+ **Infrastructure** (Path B)
 - Docker containerization
 - CLI with all arguments
 - Structured logging
 - Configuration management
 
-✅ **Additional Features**:
+ **Additional Features**:
 - Output validation script
 - Batch processing
 - Retry logic with exponential backoff
@@ -652,16 +640,16 @@ A full discussion of limitations, trade-offs, and roadmap is in:
 
 This implementation represents a **production-grade data ingestion pipeline** that:
 
-✅ **Transforms** complex nested JSON into clean Qdrant format
-✅ **Extracts** and cleans text from HTML/markdown content
-✅ **Generates** vector embeddings via OpenAI API
-✅ **Handles** errors gracefully with detailed logging
-✅ **Validates** output against schema
-✅ **Containerizes** for reproducible deployment
-✅ **Tests** comprehensively with unit and integration tests
-✅ **Tracks** execution metadata and costs
-✅ **Scales** with batch processing and retry logic
-✅ **Documents** design decisions and trade-offs
+ - **Transforms** complex nested JSON into clean Qdrant format
+ - **Extracts** and cleans text from HTML/markdown content
+ - **Generates** vector embeddings via OpenAI API
+ - **Handles** errors gracefully with detailed logging
+ - **Validates** output against schema
+ - **Containerizes** for reproducible deployment
+ - **Tests** comprehensively with unit and integration tests
+ - **Tracks** execution metadata and costs
+ - **Scales** with batch processing and retry logic
+ - **Documents** design decisions and trade-offs
 
 For production deployment:
 1. Install Docker and set `OPENAI_API_KEY`
